@@ -1,0 +1,19 @@
+2025-02-21 09:52:55,595 - INFO - Analisi sessione: 20250220_235932
+2025-02-21 09:52:55,596 - INFO - Analisi sessione: 20250221_000403
+2025-02-21 09:52:55,596 - INFO - Analisi sessione: 20250221_095255
+2025-02-21 09:52:55,596 - INFO - Analisi sessione: 20250220_184940
+2025-02-21 09:52:55,596 - INFO - Analisi sessione: 20250221_095115
+2025-02-21 09:52:55,596 - INFO - Analisi sessione: 20250220_175854
+2025-02-21 09:52:55,597 - ERROR - Errore nel file agent_progress/20250220_175854/iteration_1.json: Expecting value: line 6 column 19 (char 156)
+2025-02-21 09:52:55,597 - INFO - Analisi sessione: 20250221_094902
+2025-02-21 09:52:55,597 - WARNING - Trovati 1 file corrotti
+2025-02-21 10:04:18,530 - ERROR - Errore nell'estrazione della conversazione: 'ChatResult' object has no attribute 'messages'
+2025-02-21 10:04:18,532 - INFO - Progresso salvato per iterazione 1
+2025-02-21 10:10:36,811 - ERROR - Errore nell'estrazione della conversazione: 'ChatResult' object has no attribute 'messages'
+2025-02-21 10:10:36,812 - INFO - Progresso salvato per iterazione 2
+2025-02-21 10:20:06,657 - ERROR - Errore nell'estrazione della conversazione: 'ChatResult' object has no attribute 'messages'
+2025-02-21 10:20:06,659 - INFO - Progresso salvato per iterazione 3
+2025-02-21 10:31:12,113 - ERROR - Errore nell'estrazione della conversazione: 'ChatResult' object has no attribute 'messages'
+2025-02-21 10:31:12,115 - INFO - Progresso salvato per iterazione 4
+2025-02-21 10:38:14,398 - ERROR - Errore nell'estrazione della conversazione: 'ChatResult' object has no attribute 'messages'
+2025-02-21 10:38:14,400 - INFO - Progresso salvato per iterazione 5

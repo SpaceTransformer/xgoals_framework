@@ -1,0 +1,15 @@
+2025-02-21 15:29:59,785 - INFO - Analisi sessione: 20250221_130026
+2025-02-21 15:29:59,786 - INFO - Analisi sessione: 20250220_235932
+2025-02-21 15:29:59,786 - INFO - Analisi sessione: 20250221_000403
+2025-02-21 15:29:59,786 - INFO - Analisi sessione: 20250221_125456
+2025-02-21 15:29:59,787 - INFO - Analisi sessione: 20250221_095255
+2025-02-21 15:29:59,787 - INFO - Nuova migliore formula trovata in iteration_1.json
+2025-02-21 15:29:59,789 - INFO - Analisi sessione: 20250221_130843
+2025-02-21 15:29:59,790 - INFO - Analisi sessione: 20250220_184940
+2025-02-21 15:29:59,790 - INFO - Analisi sessione: 20250221_095115
+2025-02-21 15:29:59,790 - INFO - Analisi sessione: 20250221_125747
+2025-02-21 15:29:59,791 - INFO - Analisi sessione: 20250220_175854
+2025-02-21 15:29:59,791 - ERROR - Errore nel file agent_progress/20250220_175854/iteration_1.json: Expecting value: line 6 column 19 (char 156)
+2025-02-21 15:29:59,792 - INFO - Analisi sessione: 20250221_152959
+2025-02-21 15:29:59,792 - INFO - Analisi sessione: 20250221_094902
+2025-02-21 15:29:59,792 - WARNING - Trovati 1 file corrotti

@@ -1,0 +1,7 @@
+2025-02-21 09:49:02,436 - INFO - Analisi sessione: 20250220_235932
+2025-02-21 09:49:02,437 - INFO - Analisi sessione: 20250221_000403
+2025-02-21 09:49:02,437 - INFO - Analisi sessione: 20250220_184940
+2025-02-21 09:49:02,438 - INFO - Analisi sessione: 20250220_175854
+2025-02-21 09:49:02,439 - ERROR - Errore nel file agent_progress/20250220_175854/iteration_1.json: Expecting value: line 6 column 19 (char 156)
+2025-02-21 09:49:02,439 - INFO - Analisi sessione: 20250221_094902
+2025-02-21 09:49:02,439 - WARNING - Trovati 1 file corrotti

@@ -1,0 +1,7 @@
+2025-02-21 00:04:03,571 - INFO - Processing session: 20250220_235932
+2025-02-21 00:04:03,572 - INFO - Processing session: 20250221_000403
+2025-02-21 00:04:03,572 - INFO - Processing session: 20250220_184940
+2025-02-21 00:04:03,573 - INFO - Processing session: 20250220_175854
+2025-02-21 00:04:03,575 - ERROR - JSON decode error in agent_progress/20250220_175854/iteration_1.json: Expecting value: line 6 column 18 (char 155)
+2025-02-21 00:04:03,575 - WARNING - Found 1 corrupted files:
+2025-02-21 00:04:03,575 - WARNING - - agent_progress/20250220_175854/iteration_1.json
