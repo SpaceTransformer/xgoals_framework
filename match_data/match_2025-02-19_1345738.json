@@ -1,0 +1,1721 @@
+{
+    "fixture": {
+        "id": 1345738,
+        "referee": "Michael Oliver, England",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-19T21:00:00+01:00",
+        "timestamp": 1739995200,
+        "periods": {
+            "first": 1739995200,
+            "second": 1739998800
+        },
+        "venue": {
+            "id": 671,
+            "name": "Parc des Princes",
+            "city": "Paris"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+        }
+    },
+    "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Knockout Round Play-offs",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 85,
+            "name": "Paris Saint Germain",
+            "logo": "https://media.api-sports.io/football/teams/85.png",
+            "winner": true
+        },
+        "away": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png",
+            "winner": false
+        }
+    },
+    "goals": {
+        "home": 7,
+        "away": 0
+    },
+    "home_stats": {
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2024
+        },
+        "team": {
+            "id": 85,
+            "name": "Paris Saint Germain",
+            "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "form": "WLDLLWWWWW",
+        "fixtures": {
+            "played": {
+                "home": 5,
+                "away": 5,
+                "total": 10
+            },
+            "wins": {
+                "home": 3,
+                "away": 3,
+                "total": 6
+            },
+            "draws": {
+                "home": 1,
+                "away": 0,
+                "total": 1
+            },
+            "loses": {
+                "home": 1,
+                "away": 2,
+                "total": 3
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 14,
+                    "away": 10,
+                    "total": 24
+                },
+                "average": {
+                    "home": "2.8",
+                    "away": "2.0",
+                    "total": "2.4"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 2,
+                        "percentage": "8.33%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "16.67%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "12.50%"
+                    },
+                    "46-60": {
+                        "total": 5,
+                        "percentage": "20.83%"
+                    },
+                    "61-75": {
+                        "total": 4,
+                        "percentage": "16.67%"
+                    },
+                    "76-90": {
+                        "total": 5,
+                        "percentage": "20.83%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "4.17%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 8,
+                        "under": 2
+                    },
+                    "1.5": {
+                        "over": 5,
+                        "under": 5
+                    },
+                    "2.5": {
+                        "over": 5,
+                        "under": 5
+                    },
+                    "3.5": {
+                        "over": 3,
+                        "under": 7
+                    },
+                    "4.5": {
+                        "over": 1,
+                        "under": 9
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 5,
+                    "away": 4,
+                    "total": 9
+                },
+                "average": {
+                    "home": "1.0",
+                    "away": "0.8",
+                    "total": "0.9"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "22.22%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "33.33%"
+                    },
+                    "46-60": {
+                        "total": 2,
+                        "percentage": "22.22%"
+                    },
+                    "61-75": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "76-90": {
+                        "total": 1,
+                        "percentage": "11.11%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "11.11%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 6,
+                        "under": 4
+                    },
+                    "1.5": {
+                        "over": 3,
+                        "under": 7
+                    },
+                    "2.5": {
+                        "over": 0,
+                        "under": 10
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 10
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 10
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 1,
+                "draws": 1,
+                "loses": 2
+            },
+            "wins": {
+                "home": "7-0",
+                "away": "1-4"
+            },
+            "loses": {
+                "home": "1-2",
+                "away": "2-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 7,
+                    "away": 4
+                },
+                "against": {
+                    "home": 2,
+                    "away": 2
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 2,
+            "away": 2,
+            "total": 4
+        },
+        "failed_to_score": {
+            "home": 0,
+            "away": 2,
+            "total": 2
+        },
+        "penalty": {
+            "scored": {
+                "total": 1,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 1
+        },
+        "lineups": [
+            {
+                "formation": "4-3-3",
+                "played": 9
+            },
+            {
+                "formation": "4-4-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 2,
+                    "percentage": "18.18%"
+                },
+                "31-45": {
+                    "total": 2,
+                    "percentage": "18.18%"
+                },
+                "46-60": {
+                    "total": 2,
+                    "percentage": "18.18%"
+                },
+                "61-75": {
+                    "total": 3,
+                    "percentage": "27.27%"
+                },
+                "76-90": {
+                    "total": 1,
+                    "percentage": "9.09%"
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                },
+                "": {
+                    "total": 1,
+                    "percentage": "9.09%"
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": 1,
+                    "percentage": "100.00%"
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2024
+        },
+        "team": {
+            "id": 106,
+            "name": "Stade Brestois 29",
+            "logo": "https://media.api-sports.io/football/teams/106.png"
+        },
+        "form": "WWDWLWLLLL",
+        "fixtures": {
+            "played": {
+                "home": 5,
+                "away": 5,
+                "total": 10
+            },
+            "wins": {
+                "home": 2,
+                "away": 2,
+                "total": 4
+            },
+            "draws": {
+                "home": 1,
+                "away": 0,
+                "total": 1
+            },
+            "loses": {
+                "home": 2,
+                "away": 3,
+                "total": 5
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 4,
+                    "away": 6,
+                    "total": 10
+                },
+                "average": {
+                    "home": "0.8",
+                    "away": "1.2",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "20.00%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "30.00%"
+                    },
+                    "46-60": {
+                        "total": 2,
+                        "percentage": "20.00%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "30.00%"
+                    },
+                    "76-90": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 5,
+                        "under": 5
+                    },
+                    "1.5": {
+                        "over": 3,
+                        "under": 7
+                    },
+                    "2.5": {
+                        "over": 1,
+                        "under": 9
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 9
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 10
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 8,
+                    "away": 13,
+                    "total": 21
+                },
+                "average": {
+                    "home": "1.6",
+                    "away": "2.6",
+                    "total": "2.1"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 1,
+                        "percentage": "4.76%"
+                    },
+                    "16-30": {
+                        "total": 5,
+                        "percentage": "23.81%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "14.29%"
+                    },
+                    "46-60": {
+                        "total": 2,
+                        "percentage": "9.52%"
+                    },
+                    "61-75": {
+                        "total": 4,
+                        "percentage": "19.05%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "19.05%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "9.52%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 8,
+                        "under": 2
+                    },
+                    "1.5": {
+                        "over": 5,
+                        "under": 5
+                    },
+                    "2.5": {
+                        "over": 4,
+                        "under": 6
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 9
+                    },
+                    "4.5": {
+                        "over": 1,
+                        "under": 9
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 2,
+                "draws": 1,
+                "loses": 1
+            },
+            "wins": {
+                "home": "2-1",
+                "away": "0-4"
+            },
+            "loses": {
+                "home": "0-3",
+                "away": "7-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 2,
+                    "away": 4
+                },
+                "against": {
+                    "home": 3,
+                    "away": 7
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 1,
+            "away": 1,
+            "total": 2
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 3,
+            "total": 5
+        },
+        "penalty": {
+            "scored": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 0
+        },
+        "lineups": [
+            {
+                "formation": "4-3-1-2",
+                "played": 4
+            },
+            {
+                "formation": "4-3-3",
+                "played": 3
+            },
+            {
+                "formation": "4-3-2-1",
+                "played": 1
+            },
+            {
+                "formation": "4-2-3-1",
+                "played": 1
+            },
+            {
+                "formation": "4-4-1-1",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 2,
+                    "percentage": "10.00%"
+                },
+                "16-30": {
+                    "total": 4,
+                    "percentage": "20.00%"
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "5.00%"
+                },
+                "46-60": {
+                    "total": 2,
+                    "percentage": "10.00%"
+                },
+                "61-75": {
+                    "total": 5,
+                    "percentage": "25.00%"
+                },
+                "76-90": {
+                    "total": 5,
+                    "percentage": "25.00%"
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "5.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1345738"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 9
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 8
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 20
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 18
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 2
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 7
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 4
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 0
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "68%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 0
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 744
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 680
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "91%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "3.50"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": -1
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 7
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 13
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 10
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 9
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 1
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "32%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 2
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 328
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 262
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "80%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "0.97"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": -1
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1345738"
+        },
+        "errors": [],
+        "results": 19,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 20,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 161904,
+                    "name": "B. Barcola"
+                },
+                "assist": {
+                    "id": 328,
+                    "name": "Fabián Ruiz"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 39,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 483,
+                    "name": "K. Kvaratskhelia"
+                },
+                "assist": {
+                    "id": 161904,
+                    "name": "B. Barcola"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 59,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 128384,
+                    "name": "Vitinha"
+                },
+                "assist": {
+                    "id": 328,
+                    "name": "Fabián Ruiz"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 328,
+                    "name": "Fabián Ruiz"
+                },
+                "assist": {
+                    "id": 927,
+                    "name": "Lee Kang-In"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 153,
+                    "name": "O. Dembélé"
+                },
+                "assist": {
+                    "id": 343027,
+                    "name": "D. Doué"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 30405,
+                    "name": "E. Fernandes"
+                },
+                "assist": {
+                    "id": 24147,
+                    "name": "M. Camara"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 41323,
+                    "name": "Mama Baldé"
+                },
+                "assist": {
+                    "id": 20558,
+                    "name": "H. Magnetti"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 161904,
+                    "name": "B. Barcola"
+                },
+                "assist": {
+                    "id": 41585,
+                    "name": "Gonçalo Ramos"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 343027,
+                    "name": "D. Doué"
+                },
+                "assist": {
+                    "id": 41585,
+                    "name": "Gonçalo Ramos"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 3333,
+                    "name": "Massadio Haïdara"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 69,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 263482,
+                    "name": "Nuno Mendes"
+                },
+                "assist": {
+                    "id": 9,
+                    "name": "A. Hakimi"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 70,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 84082,
+                    "name": "R. Faivre"
+                },
+                "assist": {
+                    "id": 326068,
+                    "name": "K. Doumbia"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 70,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 3333,
+                    "name": "M. Haïdara"
+                },
+                "assist": {
+                    "id": 85914,
+                    "name": "J. Le Cardinal"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 72,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 335051,
+                    "name": "João Neves"
+                },
+                "assist": {
+                    "id": 409216,
+                    "name": "S. Mayulu"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 72,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 16367,
+                    "name": "W. Pacho"
+                },
+                "assist": {
+                    "id": 262,
+                    "name": "P. Kimpembe"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 76,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 41585,
+                    "name": "Gonçalo Ramos"
+                },
+                "assist": {
+                    "id": 343027,
+                    "name": "D. Doué"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 80,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 85914,
+                    "name": "Julien Le Cardinal"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 82,
+                    "extra": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png"
+                },
+                "player": {
+                    "id": 22170,
+                    "name": "P. Lees-Melou"
+                },
+                "assist": {
+                    "id": 22258,
+                    "name": "J. Martin"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 86,
+                    "extra": null
+                },
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png"
+                },
+                "player": {
+                    "id": 409216,
+                    "name": "S. Mayulu"
+                },
+                "assist": {
+                    "id": 483,
+                    "name": "K. Kvaratskhelia"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1345738"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 85,
+                    "name": "Paris Saint Germain",
+                    "logo": "https://media.api-sports.io/football/teams/85.png",
+                    "colors": {
+                        "player": {
+                            "primary": "1c1d3b",
+                            "number": "ffffff",
+                            "border": "1c1d3b"
+                        },
+                        "goalkeeper": {
+                            "primary": "40a344",
+                            "number": "ffffff",
+                            "border": "40a344"
+                        }
+                    }
+                },
+                "formation": "4-3-3",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 1622,
+                            "name": "Gianluigi Donnarumma",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 9,
+                            "name": "Achraf Hakimi",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 257,
+                            "name": "Marquinhos",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 16367,
+                            "name": "Willian Pacho",
+                            "number": 51,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 263482,
+                            "name": "Nuno Mendes",
+                            "number": 25,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 335051,
+                            "name": "João Neves",
+                            "number": 87,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 128384,
+                            "name": "Vitinha",
+                            "number": 17,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 328,
+                            "name": "Fabián Ruiz",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 483,
+                            "name": "Khvicha Kvaratskhelia",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 153,
+                            "name": "Ousmane Dembélé",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 161904,
+                            "name": "Bradley Barcola",
+                            "number": 29,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 343027,
+                            "name": "Désiré Doué",
+                            "number": 14,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 927,
+                            "name": "Kang-in Lee",
+                            "number": 19,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41585,
+                            "name": "Gonçalo Ramos",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 262,
+                            "name": "Presnel Kimpembe",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 409216,
+                            "name": "Senny Mayulu",
+                            "number": 24,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2068,
+                            "name": "Matvey Safonov",
+                            "number": 39,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 162473,
+                            "name": "Arnau Tenas",
+                            "number": 80,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33,
+                            "name": "Lucas Hernández",
+                            "number": 21,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 307835,
+                            "name": "Lucas Beraldo",
+                            "number": 35,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ],
+                "coach": {
+                    "id": 193,
+                    "name": "Luis Enrique",
+                    "photo": "https://media.api-sports.io/football/coachs/193.png"
+                }
+            },
+            {
+                "team": {
+                    "id": 106,
+                    "name": "Stade Brestois 29",
+                    "logo": "https://media.api-sports.io/football/teams/106.png",
+                    "colors": {
+                        "player": {
+                            "primary": "cd1535",
+                            "number": "ffffff",
+                            "border": "cd1535"
+                        },
+                        "goalkeeper": {
+                            "primary": "f1ff00",
+                            "number": "000000",
+                            "border": "f1ff00"
+                        }
+                    }
+                },
+                "formation": "4-4-1-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 21248,
+                            "name": "Grégoire Coudert",
+                            "number": 30,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 422595,
+                            "name": "Luc Zogbe",
+                            "number": 12,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 20546,
+                            "name": "Brendan Chardonnet",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 162568,
+                            "name": "Soumaila Coulibaly",
+                            "number": 44,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 3333,
+                            "name": "Massadio Haïdara",
+                            "number": 22,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41323,
+                            "name": "Mama Baldé",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22170,
+                            "name": "Pierre Lees Melou",
+                            "number": 20,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30405,
+                            "name": "Edimilson Fernandes",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 20780,
+                            "name": "Mathias Pereira Lage",
+                            "number": 26,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 84082,
+                            "name": "Romain Faivre",
+                            "number": 21,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 277191,
+                            "name": "Abdallah Sima",
+                            "number": 17,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 20558,
+                            "name": "Hugo Magnetti",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 24147,
+                            "name": "Mahdi Camara",
+                            "number": 45,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 85914,
+                            "name": "Julien Le Cardinal",
+                            "number": 25,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 326068,
+                            "name": "Kamory Doumbia",
+                            "number": 9,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22258,
+                            "name": "Jonas Martin",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 36878,
+                            "name": "Marco Bizot",
+                            "number": 40,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 348052,
+                            "name": "Noah Jauny",
+                            "number": 50,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 203483,
+                            "name": "Abdoulaye Ndiaye",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22264,
+                            "name": "Ludovic Ajorque",
+                            "number": 19,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    }
+                ],
+                "coach": {
+                    "id": 19112,
+                    "name": "E. Roy",
+                    "photo": "https://media.api-sports.io/football/coachs/19112.png"
+                }
+            }
+        ]
+    },
+    "weather": {
+        "city": "Paris",
+        "temperature": null,
+        "precipitation": null,
+        "wind_speed": null,
+        "weather_code": null,
+        "weather_description": "Condizioni meteo non classificate",
+        "timestamp": 1739995200
+    }
+}

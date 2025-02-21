@@ -1,0 +1,1823 @@
+{
+    "fixture": {
+        "id": 1234885,
+        "referee": "Giovanni Ayroldi, Italy",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-16T15:00:00+01:00",
+        "timestamp": 1739714400,
+        "periods": {
+            "first": 1739714400,
+            "second": 1739718000
+        },
+        "venue": {
+            "id": 908,
+            "name": "Stadio Comunale Romeo Menti",
+            "city": "Castellammare di Stabia"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+        }
+    },
+    "league": {
+        "id": 136,
+        "name": "Serie B",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/136.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2024,
+        "round": "Regular Season - 26",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 863,
+            "name": "Juve Stabia",
+            "logo": "https://media.api-sports.io/football/teams/863.png",
+            "winner": true
+        },
+        "away": {
+            "id": 10137,
+            "name": "Cosenza",
+            "logo": "https://media.api-sports.io/football/teams/10137.png",
+            "winner": false
+        }
+    },
+    "goals": {
+        "home": 3,
+        "away": 0
+    },
+    "home_stats": {
+        "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 863,
+            "name": "Juve Stabia",
+            "logo": "https://media.api-sports.io/football/teams/863.png"
+        },
+        "form": "WDWDLLWWLDDDLDDWWWLDDLWLWW",
+        "fixtures": {
+            "played": {
+                "home": 13,
+                "away": 13,
+                "total": 26
+            },
+            "wins": {
+                "home": 7,
+                "away": 3,
+                "total": 10
+            },
+            "draws": {
+                "home": 3,
+                "away": 6,
+                "total": 9
+            },
+            "loses": {
+                "home": 3,
+                "away": 4,
+                "total": 7
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 19,
+                    "away": 12,
+                    "total": 31
+                },
+                "average": {
+                    "home": "1.5",
+                    "away": "0.9",
+                    "total": "1.2"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "16-30": {
+                        "total": 8,
+                        "percentage": "25.81%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "9.68%"
+                    },
+                    "46-60": {
+                        "total": 7,
+                        "percentage": "22.58%"
+                    },
+                    "61-75": {
+                        "total": 2,
+                        "percentage": "6.45%"
+                    },
+                    "76-90": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "3.23%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 18,
+                        "under": 8
+                    },
+                    "1.5": {
+                        "over": 10,
+                        "under": 16
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 23
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 14,
+                    "away": 15,
+                    "total": 29
+                },
+                "average": {
+                    "home": "1.1",
+                    "away": "1.2",
+                    "total": "1.1"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 2,
+                        "percentage": "6.90%"
+                    },
+                    "16-30": {
+                        "total": 5,
+                        "percentage": "17.24%"
+                    },
+                    "31-45": {
+                        "total": 6,
+                        "percentage": "20.69%"
+                    },
+                    "46-60": {
+                        "total": 5,
+                        "percentage": "17.24%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "20.69%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "3.45%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 18,
+                        "under": 8
+                    },
+                    "1.5": {
+                        "over": 8,
+                        "under": 18
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 23
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 3,
+                "draws": 3,
+                "loses": 2
+            },
+            "wins": {
+                "home": "3-0",
+                "away": "1-3"
+            },
+            "loses": {
+                "home": "0-3",
+                "away": "3-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 3,
+                    "away": 3
+                },
+                "against": {
+                    "home": 3,
+                    "away": 3
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 5,
+            "away": 3,
+            "total": 8
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 6,
+            "total": 8
+        },
+        "penalty": {
+            "scored": {
+                "total": 1,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 1
+        },
+        "lineups": [
+            {
+                "formation": "3-4-1-2",
+                "played": 12
+            },
+            {
+                "formation": "3-4-2-1",
+                "played": 11
+            },
+            {
+                "formation": "3-5-2",
+                "played": 2
+            },
+            {
+                "formation": "3-4-3",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 5,
+                    "percentage": "6.85%"
+                },
+                "16-30": {
+                    "total": 7,
+                    "percentage": "9.59%"
+                },
+                "31-45": {
+                    "total": 23,
+                    "percentage": "31.51%"
+                },
+                "46-60": {
+                    "total": 13,
+                    "percentage": "17.81%"
+                },
+                "61-75": {
+                    "total": 11,
+                    "percentage": "15.07%"
+                },
+                "76-90": {
+                    "total": 10,
+                    "percentage": "13.70%"
+                },
+                "91-105": {
+                    "total": 4,
+                    "percentage": "5.48%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 10137,
+            "name": "Cosenza",
+            "logo": "https://media.api-sports.io/football/teams/10137.png"
+        },
+        "form": "WLDDWLDLDDWDWDDLLLDLDLLLWL",
+        "fixtures": {
+            "played": {
+                "home": 13,
+                "away": 13,
+                "total": 26
+            },
+            "wins": {
+                "home": 3,
+                "away": 2,
+                "total": 5
+            },
+            "draws": {
+                "home": 6,
+                "away": 4,
+                "total": 10
+            },
+            "loses": {
+                "home": 4,
+                "away": 7,
+                "total": 11
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 10,
+                    "away": 13,
+                    "total": 23
+                },
+                "average": {
+                    "home": "0.8",
+                    "away": "1.0",
+                    "total": "0.9"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 4,
+                        "percentage": "16.00%"
+                    },
+                    "16-30": {
+                        "total": 3,
+                        "percentage": "12.00%"
+                    },
+                    "31-45": {
+                        "total": 5,
+                        "percentage": "20.00%"
+                    },
+                    "46-60": {
+                        "total": 3,
+                        "percentage": "12.00%"
+                    },
+                    "61-75": {
+                        "total": 4,
+                        "percentage": "16.00%"
+                    },
+                    "76-90": {
+                        "total": 3,
+                        "percentage": "12.00%"
+                    },
+                    "91-105": {
+                        "total": 3,
+                        "percentage": "12.00%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 9
+                    },
+                    "1.5": {
+                        "over": 5,
+                        "under": 21
+                    },
+                    "2.5": {
+                        "over": 1,
+                        "under": 25
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 12,
+                    "away": 21,
+                    "total": 33
+                },
+                "average": {
+                    "home": "0.9",
+                    "away": "1.6",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 3,
+                        "percentage": "9.68%"
+                    },
+                    "16-30": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "12.90%"
+                    },
+                    "46-60": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "9.68%"
+                    },
+                    "76-90": {
+                        "total": 9,
+                        "percentage": "29.03%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "6.45%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 21,
+                        "under": 5
+                    },
+                    "1.5": {
+                        "over": 9,
+                        "under": 17
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 23
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 1,
+                "draws": 2,
+                "loses": 3
+            },
+            "wins": {
+                "home": "2-1",
+                "away": "2-3"
+            },
+            "loses": {
+                "home": "0-2",
+                "away": "3-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 2,
+                    "away": 3
+                },
+                "against": {
+                    "home": 2,
+                    "away": 3
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 3,
+            "away": 2,
+            "total": 5
+        },
+        "failed_to_score": {
+            "home": 5,
+            "away": 4,
+            "total": 9
+        },
+        "penalty": {
+            "scored": {
+                "total": 3,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 3
+        },
+        "lineups": [
+            {
+                "formation": "3-4-1-2",
+                "played": 13
+            },
+            {
+                "formation": "3-4-2-1",
+                "played": 6
+            },
+            {
+                "formation": "3-5-2",
+                "played": 5
+            },
+            {
+                "formation": "3-4-3",
+                "played": 2
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 6,
+                    "percentage": "6.82%"
+                },
+                "16-30": {
+                    "total": 12,
+                    "percentage": "13.64%"
+                },
+                "31-45": {
+                    "total": 16,
+                    "percentage": "18.18%"
+                },
+                "46-60": {
+                    "total": 11,
+                    "percentage": "12.50%"
+                },
+                "61-75": {
+                    "total": 18,
+                    "percentage": "20.45%"
+                },
+                "76-90": {
+                    "total": 17,
+                    "percentage": "19.32%"
+                },
+                "91-105": {
+                    "total": 7,
+                    "percentage": "7.95%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                },
+                "": {
+                    "total": 1,
+                    "percentage": "1.14%"
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 1,
+                    "percentage": "16.67%"
+                },
+                "31-45": {
+                    "total": 2,
+                    "percentage": "33.33%"
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": 2,
+                    "percentage": "33.33%"
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "16.67%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1234885"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 7
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 6
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 1
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 20
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 4
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 3
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "41%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 3
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 4
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 217
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 133
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "61%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 8
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 16
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 11
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 10
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 1
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "59%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 4
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 310
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 220
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "71%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1234885"
+        },
+        "errors": [],
+        "results": 21,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 16,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 32158,
+                    "name": "Mario Gargiulo"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 27,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 31158,
+                    "name": "C. Andreoni"
+                },
+                "assist": {
+                    "id": 437093,
+                    "name": "N. Fortini"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 31,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 126885,
+                    "name": "Manuel Ricciardi"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 36,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 31191,
+                    "name": "Demba Thiam"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Argument"
+            },
+            {
+                "time": {
+                    "elapsed": 36,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 31399,
+                    "name": "Christian Kouan"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 38,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 437093,
+                    "name": "Niccolò Fortini"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 45,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 212,
+                    "name": "A. Adorante"
+                },
+                "assist": {
+                    "id": 32139,
+                    "name": "K. Piscopo"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 51,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 64025,
+                    "name": "Marco Ruggero"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 58,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 212,
+                    "name": "A. Adorante"
+                },
+                "assist": {
+                    "id": 31191,
+                    "name": "D. Thiam"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 59,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 31399,
+                    "name": "C. Kouan"
+                },
+                "assist": {
+                    "id": 30870,
+                    "name": "A. Rizzo Pinna"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 126885,
+                    "name": "M. Ricciardi"
+                },
+                "assist": {
+                    "id": 279757,
+                    "name": "R. Ciervo"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 62,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 56289,
+                    "name": "Giuseppe Leone"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Penalty cancelled",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 66,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 327581,
+                    "name": "Massimo Zilli"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 196843,
+                    "name": "C. Dalle Mura"
+                },
+                "assist": {
+                    "id": 56390,
+                    "name": "M. Venturi"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 31334,
+                    "name": "L. Garritano"
+                },
+                "assist": {
+                    "id": 342053,
+                    "name": "C. Kourfalidis"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 73,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 212,
+                    "name": "A. Adorante"
+                },
+                "assist": {
+                    "id": 32225,
+                    "name": "E. Dubickas"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 73,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 31531,
+                    "name": "L. Candellone"
+                },
+                "assist": {
+                    "id": 136064,
+                    "name": "M. Meli"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 76,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png"
+                },
+                "player": {
+                    "id": 327581,
+                    "name": "M. Zilli"
+                },
+                "assist": {
+                    "id": 137093,
+                    "name": "T. Fumagalli"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 86,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 437093,
+                    "name": "N. Fortini"
+                },
+                "assist": {
+                    "id": 32225,
+                    "name": "E. Dubickas"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 32139,
+                    "name": "K. Piscopo"
+                },
+                "assist": {
+                    "id": 57012,
+                    "name": "F. Maistro"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": null
+                },
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png"
+                },
+                "player": {
+                    "id": 56289,
+                    "name": "G. Leone"
+                },
+                "assist": {
+                    "id": 344574,
+                    "name": "A. Louati"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1234885"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 863,
+                    "name": "Juve Stabia",
+                    "logo": "https://media.api-sports.io/football/teams/863.png",
+                    "colors": {
+                        "player": {
+                            "primary": "2d3d83",
+                            "number": "e0b704",
+                            "border": "2d3d83"
+                        },
+                        "goalkeeper": {
+                            "primary": "f5f2ef",
+                            "number": "000000",
+                            "border": "f5f2ef"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 15285,
+                    "name": "G. Pagliuca",
+                    "photo": "https://media.api-sports.io/football/coachs/15285.png"
+                },
+                "formation": "3-4-1-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 31191,
+                            "name": "D. Thiam",
+                            "number": 20,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 64025,
+                            "name": "M. Ruggero",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 310576,
+                            "name": "P. Peda",
+                            "number": 45,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31164,
+                            "name": "D. Quaranta",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31158,
+                            "name": "C. Andreoni",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56289,
+                            "name": "G. Leone",
+                            "number": 55,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56167,
+                            "name": "D. Buglio",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 342073,
+                            "name": "Y. Rocchetti",
+                            "number": 3,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32139,
+                            "name": "K. Piscopo",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31531,
+                            "name": "L. Candellone",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": "5:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 212,
+                            "name": "A. Adorante",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 437093,
+                            "name": "N. Fortini",
+                            "number": 29,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 136064,
+                            "name": "M. Meli",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32225,
+                            "name": "E. Dubickas",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 344574,
+                            "name": "A. Louati",
+                            "number": 80,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 57012,
+                            "name": "F. Maistro",
+                            "number": 37,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56508,
+                            "name": "K. Matošević",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 162092,
+                            "name": "L. Sgarbi",
+                            "number": 18,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30847,
+                            "name": "G. Morachioli",
+                            "number": 17,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31650,
+                            "name": "A. Gerbo",
+                            "number": 25,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 438282,
+                            "name": "A. Signorini",
+                            "number": 16,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 323331,
+                            "name": "M. Baldi",
+                            "number": 13,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32161,
+                            "name": "N. Mosti",
+                            "number": 98,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 10137,
+                    "name": "Cosenza",
+                    "logo": "https://media.api-sports.io/football/teams/10137.png",
+                    "colors": {
+                        "player": {
+                            "primary": "272349",
+                            "number": "ffffff",
+                            "border": "272349"
+                        },
+                        "goalkeeper": {
+                            "primary": "e6ee57",
+                            "number": "ffffff",
+                            "border": "e6ee57"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 413,
+                    "name": "M. Alvini",
+                    "photo": "https://media.api-sports.io/football/coachs/413.png"
+                },
+                "formation": "3-4-3",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 31664,
+                            "name": "A. Micai",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31329,
+                            "name": "A. Hristov",
+                            "number": 55,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 196843,
+                            "name": "C. Dalle Mura",
+                            "number": 15,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56841,
+                            "name": "A. Caporale",
+                            "number": 17,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 126885,
+                            "name": "M. Ricciardi",
+                            "number": 16,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31399,
+                            "name": "C. Kouan",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32158,
+                            "name": "M. Gargiulo",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31327,
+                            "name": "T. D'Orazio",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 180764,
+                            "name": "G. Artistico",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 327581,
+                            "name": "M. Zilli",
+                            "number": 21,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31334,
+                            "name": "L. Garritano",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 30870,
+                            "name": "A. Rizzo Pinna",
+                            "number": 20,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 279757,
+                            "name": "R. Ciervo",
+                            "number": 19,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 342053,
+                            "name": "C. Kourfalidis",
+                            "number": 39,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56390,
+                            "name": "M. Venturi",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 137093,
+                            "name": "T. Fumagalli",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 483114,
+                            "name": "L. Contiero",
+                            "number": 41,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 91502,
+                            "name": "T. Vettorel",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 356892,
+                            "name": "G. Baldi",
+                            "number": 12,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32122,
+                            "name": "G. Ricci",
+                            "number": 31,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 330776,
+                            "name": "P. Martino",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 405273,
+                            "name": "Charlys",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31393,
+                            "name": "F. Sgarbi",
+                            "number": 29,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Castellammare di Stabia",
+        "temperature": 16.8,
+        "precipitation": 0.1,
+        "wind_speed": 5.7,
+        "weather_code": 51,
+        "weather_description": "Pioggerella leggera",
+        "timestamp": 1739714400
+    }
+}

@@ -1,0 +1,1703 @@
+{
+    "fixture": {
+        "id": 1327696,
+        "referee": "F. San",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-16T16:30:00+01:00",
+        "timestamp": 1739719800,
+        "periods": {
+            "first": 1739719800,
+            "second": 1739723400
+        },
+        "venue": {
+            "id": 1530,
+            "name": "St. Jakob-Park",
+            "city": "Basel"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 4
+        }
+    },
+    "league": {
+        "id": 207,
+        "name": "Super League",
+        "country": "Switzerland",
+        "logo": "https://media.api-sports.io/football/leagues/207.png",
+        "flag": "https://media.api-sports.io/flags/ch.svg",
+        "season": 2024,
+        "round": "Regular Season - 24",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 551,
+            "name": "FC Basel 1893",
+            "logo": "https://media.api-sports.io/football/teams/551.png",
+            "winner": null
+        },
+        "away": {
+            "id": 1014,
+            "name": "Lausanne",
+            "logo": "https://media.api-sports.io/football/teams/1014.png",
+            "winner": null
+        }
+    },
+    "goals": {
+        "home": 1,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 207,
+            "name": "Super League",
+            "country": "Switzerland",
+            "logo": "https://media.api-sports.io/football/leagues/207.png",
+            "flag": "https://media.api-sports.io/flags/ch.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 551,
+            "name": "FC Basel 1893",
+            "logo": "https://media.api-sports.io/football/teams/551.png"
+        },
+        "form": "LLWWWDLLWWWLWWWDDLDWWWLD",
+        "fixtures": {
+            "played": {
+                "home": 12,
+                "away": 12,
+                "total": 24
+            },
+            "wins": {
+                "home": 7,
+                "away": 5,
+                "total": 12
+            },
+            "draws": {
+                "home": 2,
+                "away": 3,
+                "total": 5
+            },
+            "loses": {
+                "home": 3,
+                "away": 4,
+                "total": 7
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 22,
+                    "away": 29,
+                    "total": 51
+                },
+                "average": {
+                    "home": "1.8",
+                    "away": "2.4",
+                    "total": "2.1"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 7,
+                        "percentage": "12.96%"
+                    },
+                    "16-30": {
+                        "total": 5,
+                        "percentage": "9.26%"
+                    },
+                    "31-45": {
+                        "total": 10,
+                        "percentage": "18.52%"
+                    },
+                    "46-60": {
+                        "total": 13,
+                        "percentage": "24.07%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "9.26%"
+                    },
+                    "76-90": {
+                        "total": 11,
+                        "percentage": "20.37%"
+                    },
+                    "91-105": {
+                        "total": 3,
+                        "percentage": "5.56%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 21,
+                        "under": 3
+                    },
+                    "1.5": {
+                        "over": 13,
+                        "under": 11
+                    },
+                    "2.5": {
+                        "over": 7,
+                        "under": 17
+                    },
+                    "3.5": {
+                        "over": 5,
+                        "under": 19
+                    },
+                    "4.5": {
+                        "over": 3,
+                        "under": 21
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 11,
+                    "away": 15,
+                    "total": 26
+                },
+                "average": {
+                    "home": "0.9",
+                    "away": "1.3",
+                    "total": "1.1"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 4,
+                        "percentage": "17.39%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "17.39%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "13.04%"
+                    },
+                    "46-60": {
+                        "total": 6,
+                        "percentage": "26.09%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "13.04%"
+                    },
+                    "76-90": {
+                        "total": 3,
+                        "percentage": "13.04%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 18,
+                        "under": 6
+                    },
+                    "1.5": {
+                        "over": 6,
+                        "under": 18
+                    },
+                    "2.5": {
+                        "over": 2,
+                        "under": 22
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 24
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 24
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 3,
+                "draws": 2,
+                "loses": 2
+            },
+            "wins": {
+                "home": "5-0",
+                "away": "0-6"
+            },
+            "loses": {
+                "home": "0-2",
+                "away": "3-2"
+            },
+            "goals": {
+                "for": {
+                    "home": 5,
+                    "away": 6
+                },
+                "against": {
+                    "home": 2,
+                    "away": 3
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 3,
+            "away": 3,
+            "total": 6
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 1,
+            "total": 3
+        },
+        "penalty": {
+            "scored": {
+                "total": 4,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 4
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 9
+            },
+            {
+                "formation": "3-4-3",
+                "played": 8
+            },
+            {
+                "formation": "4-3-3",
+                "played": 4
+            },
+            {
+                "formation": "4-3-2-1",
+                "played": 1
+            },
+            {
+                "formation": "4-4-1-1",
+                "played": 1
+            },
+            {
+                "formation": "4-4-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 8,
+                    "percentage": "15.09%"
+                },
+                "31-45": {
+                    "total": 13,
+                    "percentage": "24.53%"
+                },
+                "46-60": {
+                    "total": 9,
+                    "percentage": "16.98%"
+                },
+                "61-75": {
+                    "total": 10,
+                    "percentage": "18.87%"
+                },
+                "76-90": {
+                    "total": 11,
+                    "percentage": "20.75%"
+                },
+                "91-105": {
+                    "total": 2,
+                    "percentage": "3.77%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": 1,
+                    "percentage": "25.00%"
+                },
+                "76-90": {
+                    "total": 2,
+                    "percentage": "50.00%"
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "25.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 207,
+            "name": "Super League",
+            "country": "Switzerland",
+            "logo": "https://media.api-sports.io/football/leagues/207.png",
+            "flag": "https://media.api-sports.io/flags/ch.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 1014,
+            "name": "Lausanne",
+            "logo": "https://media.api-sports.io/football/teams/1014.png"
+        },
+        "form": "WLLLDLWLDWWWWLWDWWDLLDWD",
+        "fixtures": {
+            "played": {
+                "home": 12,
+                "away": 12,
+                "total": 24
+            },
+            "wins": {
+                "home": 8,
+                "away": 2,
+                "total": 10
+            },
+            "draws": {
+                "home": 1,
+                "away": 5,
+                "total": 6
+            },
+            "loses": {
+                "home": 3,
+                "away": 5,
+                "total": 8
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 25,
+                    "away": 16,
+                    "total": 41
+                },
+                "average": {
+                    "home": "2.1",
+                    "away": "1.3",
+                    "total": "1.7"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 8,
+                        "percentage": "20.00%"
+                    },
+                    "16-30": {
+                        "total": 7,
+                        "percentage": "17.50%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "10.00%"
+                    },
+                    "46-60": {
+                        "total": 6,
+                        "percentage": "15.00%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "15.00%"
+                    },
+                    "76-90": {
+                        "total": 7,
+                        "percentage": "17.50%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "5.00%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 19,
+                        "under": 5
+                    },
+                    "1.5": {
+                        "over": 12,
+                        "under": 12
+                    },
+                    "2.5": {
+                        "over": 8,
+                        "under": 16
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 22
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 24
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 12,
+                    "away": 19,
+                    "total": 31
+                },
+                "average": {
+                    "home": "1.0",
+                    "away": "1.6",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 8,
+                        "percentage": "25.00%"
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "6.25%"
+                    },
+                    "31-45": {
+                        "total": 5,
+                        "percentage": "15.63%"
+                    },
+                    "46-60": {
+                        "total": 4,
+                        "percentage": "12.50%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "15.63%"
+                    },
+                    "76-90": {
+                        "total": 7,
+                        "percentage": "21.88%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "3.13%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 7
+                    },
+                    "1.5": {
+                        "over": 9,
+                        "under": 15
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 21
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 22
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 24
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 4,
+                "draws": 1,
+                "loses": 3
+            },
+            "wins": {
+                "home": "4-1",
+                "away": "1-4"
+            },
+            "loses": {
+                "home": "3-4",
+                "away": "4-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 4,
+                    "away": 4
+                },
+                "against": {
+                    "home": 4,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 6,
+            "away": 1,
+            "total": 7
+        },
+        "failed_to_score": {
+            "home": 1,
+            "away": 4,
+            "total": 5
+        },
+        "penalty": {
+            "scored": {
+                "total": 5,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 5
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 8
+            },
+            {
+                "formation": "4-3-3",
+                "played": 8
+            },
+            {
+                "formation": "4-4-2",
+                "played": 8
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 2,
+                    "percentage": "3.70%"
+                },
+                "16-30": {
+                    "total": 9,
+                    "percentage": "16.67%"
+                },
+                "31-45": {
+                    "total": 7,
+                    "percentage": "12.96%"
+                },
+                "46-60": {
+                    "total": 12,
+                    "percentage": "22.22%"
+                },
+                "61-75": {
+                    "total": 9,
+                    "percentage": "16.67%"
+                },
+                "76-90": {
+                    "total": 12,
+                    "percentage": "22.22%"
+                },
+                "91-105": {
+                    "total": 3,
+                    "percentage": "5.56%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1327696"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 9
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 8
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 20
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 15
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 10
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 9
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 3
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "58%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 2
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 4
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 454
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 379
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "83%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "2.43"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 11
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 5
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 6
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 18
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 6
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 2
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "42%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 5
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 7
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 332
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 259
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "78%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "0.89"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1327696"
+        },
+        "errors": [],
+        "results": 18,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 3,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 188319,
+                    "name": "Kevin Carlos"
+                },
+                "assist": {
+                    "id": 20833,
+                    "name": "L. Leroy"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 20,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 22230,
+                    "name": "Teddy Okou"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 20,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 237068,
+                    "name": "Aliou Balde"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Argument"
+            },
+            {
+                "time": {
+                    "elapsed": 30,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 237068,
+                    "name": "Aliou Balde"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Goal cancelled",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 32,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 20833,
+                    "name": "Leo Leroy"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 45,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 266174,
+                    "name": "Alban Ajdini"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Goal cancelled",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 55,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 48460,
+                    "name": "Olivier Custodio"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 59,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 73879,
+                    "name": "P. Otele"
+                },
+                "assist": {
+                    "id": 304161,
+                    "name": "B. Traoré"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 59,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 41730,
+                    "name": "Romário Baró"
+                },
+                "assist": {
+                    "id": 279993,
+                    "name": "A. Kade"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 22230,
+                    "name": "T. Okou"
+                },
+                "assist": {
+                    "id": 50101,
+                    "name": "F. Diabaté"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 237068,
+                    "name": "A. Balde"
+                },
+                "assist": {
+                    "id": 161929,
+                    "name": "K. de la Fuente"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 266174,
+                    "name": "A. Ajdini"
+                },
+                "assist": {
+                    "id": 56303,
+                    "name": "K. Sène"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 188319,
+                    "name": "Kevin Carlos Omoruyi"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Goal cancelled",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 2,
+                    "name": "M. Hitz"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Own Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 77,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 188319,
+                    "name": "Kevin Carlos"
+                },
+                "assist": {
+                    "id": 2812,
+                    "name": "A. Ajeti"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 80,
+                    "extra": null
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 64,
+                    "name": "Karlo Letica"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Time wasting"
+            },
+            {
+                "time": {
+                    "elapsed": 83,
+                    "extra": null
+                },
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png"
+                },
+                "player": {
+                    "id": 304161,
+                    "name": "Benie Traore"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png"
+                },
+                "player": {
+                    "id": 48655,
+                    "name": "Raoul Giger"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1327696"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 551,
+                    "name": "FC Basel 1893",
+                    "logo": "https://media.api-sports.io/football/teams/551.png",
+                    "colors": {
+                        "player": {
+                            "primary": "e84536",
+                            "number": "c7b775",
+                            "border": "e84536"
+                        },
+                        "goalkeeper": {
+                            "primary": "eb5932",
+                            "number": "393f3f",
+                            "border": "eb5932"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2020,
+                    "name": "F. Celestini",
+                    "photo": "https://media.api-sports.io/football/coachs/2020.png"
+                },
+                "formation": "4-3-3",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 2,
+                            "name": "M. Hitz",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 310029,
+                            "name": "J. Mendes",
+                            "number": 17,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 68090,
+                            "name": "A. Barišić",
+                            "number": 26,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 369425,
+                            "name": "J. Adjetey",
+                            "number": 32,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 48722,
+                            "name": "D. Schmid",
+                            "number": 31,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 20833,
+                            "name": "L. Leroy",
+                            "number": 22,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 390586,
+                            "name": "L. Avdullahu",
+                            "number": 37,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41730,
+                            "name": "Romário Baró",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 307,
+                            "name": "X. Shaqiri",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 188319,
+                            "name": "Kevin Carlos",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 73879,
+                            "name": "P. Otele",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 304161,
+                            "name": "B. Traoré",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 279993,
+                            "name": "A. Kade",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2812,
+                            "name": "A. Ajeti",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 305816,
+                            "name": "Metinho",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 328464,
+                            "name": "M. Cissé",
+                            "number": 29,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 342482,
+                            "name": "G. Sigua",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 366579,
+                            "name": "F. van Breemen",
+                            "number": 25,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 1011,
+                            "name": "K. Rüegg",
+                            "number": 27,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 48445,
+                            "name": "M. Salvi",
+                            "number": 13,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 1014,
+                    "name": "Lausanne",
+                    "logo": "https://media.api-sports.io/football/teams/1014.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "225f93",
+                            "border": "ffffff"
+                        },
+                        "goalkeeper": {
+                            "primary": "fcff69",
+                            "number": "ffffff",
+                            "border": "fcff69"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2019,
+                    "name": "L. Magnin",
+                    "photo": "https://media.api-sports.io/football/coachs/2019.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 64,
+                            "name": "K. Letica",
+                            "number": 25,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 48655,
+                            "name": "R. Giger",
+                            "number": 34,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 325784,
+                            "name": "K. Sow",
+                            "number": 71,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 8581,
+                            "name": "N. Dussenne",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 20575,
+                            "name": "M. Poaty",
+                            "number": 18,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 48460,
+                            "name": "O. Custodio",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 161879,
+                            "name": "K. Koindredi",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22230,
+                            "name": "T. Okou",
+                            "number": 92,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 290646,
+                            "name": "A. Sanches",
+                            "number": 80,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 237068,
+                            "name": "A. Balde",
+                            "number": 70,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 266174,
+                            "name": "A. Ajdini",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 50101,
+                            "name": "F. Diabaté",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 161929,
+                            "name": "K. de la Fuente",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56303,
+                            "name": "K. Sène",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 191240,
+                            "name": "M. Senaya",
+                            "number": 19,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 21149,
+                            "name": "K. Mouanga",
+                            "number": 14,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 350493,
+                            "name": "B. Lekoueiry",
+                            "number": 27,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 193505,
+                            "name": "S. Fofana",
+                            "number": 93,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 370011,
+                            "name": "F. Oviedo",
+                            "number": 39,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 48623,
+                            "name": "T. Castella",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Basel",
+        "temperature": 3.8,
+        "precipitation": 0.0,
+        "wind_speed": 8.7,
+        "weather_code": 3,
+        "weather_description": "Cielo coperto",
+        "timestamp": 1739719800
+    }
+}

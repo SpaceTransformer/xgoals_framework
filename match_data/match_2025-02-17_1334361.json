@@ -1,0 +1,1642 @@
+{
+    "fixture": {
+        "id": 1334361,
+        "referee": "C. Gariano",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-17T01:30:00+01:00",
+        "timestamp": 1739752200,
+        "periods": {
+            "first": 1739752200,
+            "second": 1739755800
+        },
+        "venue": {
+            "id": 110,
+            "name": "Estadio Mario Alberto Kempes",
+            "city": "Ciudad de Córdoba, Provincia de Córdoba"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+        }
+    },
+    "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2025,
+        "round": "1st Phase - 6",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png",
+            "winner": null
+        },
+        "away": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png",
+            "winner": null
+        }
+    },
+    "goals": {
+        "home": 1,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 456,
+            "name": "Talleres Cordoba",
+            "logo": "https://media.api-sports.io/football/teams/456.png"
+        },
+        "form": "WWDWWLDDDDWLWDWWDLDDLWWWWWL",
+        "fixtures": {
+            "played": {
+                "home": 13,
+                "away": 14,
+                "total": 27
+            },
+            "wins": {
+                "home": 7,
+                "away": 6,
+                "total": 13
+            },
+            "draws": {
+                "home": 4,
+                "away": 5,
+                "total": 9
+            },
+            "loses": {
+                "home": 2,
+                "away": 3,
+                "total": 5
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 17,
+                    "away": 17,
+                    "total": 34
+                },
+                "average": {
+                    "home": "1.3",
+                    "away": "1.2",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 6,
+                        "percentage": "17.14%"
+                    },
+                    "16-30": {
+                        "total": 3,
+                        "percentage": "8.57%"
+                    },
+                    "31-45": {
+                        "total": 2,
+                        "percentage": "5.71%"
+                    },
+                    "46-60": {
+                        "total": 9,
+                        "percentage": "25.71%"
+                    },
+                    "61-75": {
+                        "total": 7,
+                        "percentage": "20.00%"
+                    },
+                    "76-90": {
+                        "total": 6,
+                        "percentage": "17.14%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "5.71%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 21,
+                        "under": 6
+                    },
+                    "1.5": {
+                        "over": 9,
+                        "under": 18
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 24
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 10,
+                    "away": 17,
+                    "total": 27
+                },
+                "average": {
+                    "home": "0.8",
+                    "away": "1.2",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 2,
+                        "percentage": "7.69%"
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "7.69%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "46-60": {
+                        "total": 6,
+                        "percentage": "23.08%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "23.08%"
+                    },
+                    "76-90": {
+                        "total": 7,
+                        "percentage": "26.92%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 16,
+                        "under": 11
+                    },
+                    "1.5": {
+                        "over": 8,
+                        "under": 19
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 24
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 27
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 5,
+                "draws": 4,
+                "loses": 1
+            },
+            "wins": {
+                "home": "2-0",
+                "away": "2-4"
+            },
+            "loses": {
+                "home": "1-3",
+                "away": "3-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 2,
+                    "away": 4
+                },
+                "against": {
+                    "home": 3,
+                    "away": 3
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 6,
+            "away": 5,
+            "total": 11
+        },
+        "failed_to_score": {
+            "home": 1,
+            "away": 5,
+            "total": 6
+        },
+        "penalty": {
+            "scored": {
+                "total": 2,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 2
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 16
+            },
+            {
+                "formation": "4-3-3",
+                "played": 9
+            },
+            {
+                "formation": "4-3-1-2",
+                "played": 2
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 2,
+                    "percentage": "2.86%"
+                },
+                "16-30": {
+                    "total": 11,
+                    "percentage": "15.71%"
+                },
+                "31-45": {
+                    "total": 17,
+                    "percentage": "24.29%"
+                },
+                "46-60": {
+                    "total": 9,
+                    "percentage": "12.86%"
+                },
+                "61-75": {
+                    "total": 14,
+                    "percentage": "20.00%"
+                },
+                "76-90": {
+                    "total": 6,
+                    "percentage": "8.57%"
+                },
+                "91-105": {
+                    "total": 10,
+                    "percentage": "14.29%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                },
+                "": {
+                    "total": 1,
+                    "percentage": "1.43%"
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 1,
+                    "percentage": "20.00%"
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "20.00%"
+                },
+                "46-60": {
+                    "total": 1,
+                    "percentage": "20.00%"
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 2,
+                    "percentage": "40.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 455,
+            "name": "Atletico Tucuman",
+            "logo": "https://media.api-sports.io/football/teams/455.png"
+        },
+        "form": "WLDDDDWWWWWLWLLDLLWDWLWLDLW",
+        "fixtures": {
+            "played": {
+                "home": 14,
+                "away": 13,
+                "total": 27
+            },
+            "wins": {
+                "home": 9,
+                "away": 2,
+                "total": 11
+            },
+            "draws": {
+                "home": 3,
+                "away": 4,
+                "total": 7
+            },
+            "loses": {
+                "home": 2,
+                "away": 7,
+                "total": 9
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 20,
+                    "away": 8,
+                    "total": 28
+                },
+                "average": {
+                    "home": "1.4",
+                    "away": "0.6",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 5,
+                        "percentage": "17.24%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "46-60": {
+                        "total": 6,
+                        "percentage": "20.69%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "10.34%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "91-105": {
+                        "total": 3,
+                        "percentage": "10.34%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 20,
+                        "under": 7
+                    },
+                    "1.5": {
+                        "over": 6,
+                        "under": 21
+                    },
+                    "2.5": {
+                        "over": 1,
+                        "under": 26
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 11,
+                    "away": 16,
+                    "total": 27
+                },
+                "average": {
+                    "home": "0.8",
+                    "away": "1.2",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 4,
+                        "percentage": "15.38%"
+                    },
+                    "16-30": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "46-60": {
+                        "total": 5,
+                        "percentage": "19.23%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "19.23%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "15.38%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "7.69%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 16,
+                        "under": 11
+                    },
+                    "1.5": {
+                        "over": 7,
+                        "under": 20
+                    },
+                    "2.5": {
+                        "over": 2,
+                        "under": 25
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 25
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 5,
+                "draws": 4,
+                "loses": 2
+            },
+            "wins": {
+                "home": "4-2",
+                "away": "0-2"
+            },
+            "loses": {
+                "home": "2-4",
+                "away": "4-1"
+            },
+            "goals": {
+                "for": {
+                    "home": 4,
+                    "away": 2
+                },
+                "against": {
+                    "home": 4,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 8,
+            "away": 3,
+            "total": 11
+        },
+        "failed_to_score": {
+            "home": 1,
+            "away": 6,
+            "total": 7
+        },
+        "penalty": {
+            "scored": {
+                "total": 2,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 2
+        },
+        "lineups": [
+            {
+                "formation": "4-4-2",
+                "played": 22
+            },
+            {
+                "formation": "5-3-2",
+                "played": 3
+            },
+            {
+                "formation": "4-2-3-1",
+                "played": 1
+            },
+            {
+                "formation": "4-3-1-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 2,
+                    "percentage": "3.51%"
+                },
+                "16-30": {
+                    "total": 5,
+                    "percentage": "8.77%"
+                },
+                "31-45": {
+                    "total": 9,
+                    "percentage": "15.79%"
+                },
+                "46-60": {
+                    "total": 14,
+                    "percentage": "24.56%"
+                },
+                "61-75": {
+                    "total": 17,
+                    "percentage": "29.82%"
+                },
+                "76-90": {
+                    "total": 6,
+                    "percentage": "10.53%"
+                },
+                "91-105": {
+                    "total": 4,
+                    "percentage": "7.02%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 1,
+                    "percentage": "33.33%"
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": 1,
+                    "percentage": "33.33%"
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "33.33%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1334361"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 5
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 7
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 19
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 7
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 7
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 12
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 9
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 2
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "64%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 0
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 534
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 458
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "86%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 4
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 8
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 8
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 3
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "36%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 4
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 293
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 210
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "72%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1334361"
+        },
+        "errors": [],
+        "results": 13,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "player": {
+                    "id": 35667,
+                    "name": "N. Bustos"
+                },
+                "assist": {
+                    "id": 5887,
+                    "name": "U. Ortegoza"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "player": {
+                    "id": 411293,
+                    "name": "J. Mosqueira"
+                },
+                "assist": {
+                    "id": 48376,
+                    "name": "B. Riveros"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 6600,
+                    "name": "G. Ferrari"
+                },
+                "assist": {
+                    "id": 126670,
+                    "name": "M. Brizuela"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 47,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 5172,
+                    "name": "N. Castro"
+                },
+                "assist": {
+                    "id": 129907,
+                    "name": "R. Ruíz Rodríguez"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 58,
+                    "extra": null
+                },
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "player": {
+                    "id": 305832,
+                    "name": "M. Galarza Fonda"
+                },
+                "assist": {
+                    "id": 133621,
+                    "name": "V. Depietri"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 62,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 6038,
+                    "name": "L. Díaz"
+                },
+                "assist": {
+                    "id": 5801,
+                    "name": "M. Bajamich"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 62,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 58478,
+                    "name": "M. Coronel"
+                },
+                "assist": {
+                    "id": 6187,
+                    "name": "C. Auzqui"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 70,
+                    "extra": null
+                },
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "player": {
+                    "id": 52673,
+                    "name": "M. Navarro"
+                },
+                "assist": {
+                    "id": 5977,
+                    "name": "E. Reynoso"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 73,
+                    "extra": null
+                },
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "player": {
+                    "id": 5887,
+                    "name": "U. Ortegoza"
+                },
+                "assist": {
+                    "id": 58577,
+                    "name": "G. Benavídez"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 78,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 6208,
+                    "name": "G. Acosta"
+                },
+                "assist": {
+                    "id": 5442,
+                    "name": "R. Melo"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 80,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 5172,
+                    "name": "N. Castro"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 85,
+                    "extra": null
+                },
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png"
+                },
+                "player": {
+                    "id": 406489,
+                    "name": "S. Fernández"
+                },
+                "assist": {
+                    "id": 6540,
+                    "name": "J. Rodríguez"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 85,
+                    "extra": null
+                },
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png"
+                },
+                "player": {
+                    "id": 5172,
+                    "name": "N. Castro"
+                },
+                "assist": {
+                    "id": 199926,
+                    "name": "N. Laméndola"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1334361"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "1936e2",
+                            "border": "ffffff"
+                        },
+                        "goalkeeper": {
+                            "primary": "e919dc",
+                            "number": "ffffff",
+                            "border": "e919dc"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 898,
+                    "name": "A. Medina",
+                    "photo": "https://media.api-sports.io/football/coachs/898.png"
+                },
+                "formation": "4-3-1-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 6225,
+                            "name": "G. Herrera",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 58577,
+                            "name": "G. Benavídez",
+                            "number": 29,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 406489,
+                            "name": "S. Fernández",
+                            "number": 44,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 58392,
+                            "name": "J. Portillo",
+                            "number": 28,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 52673,
+                            "name": "M. Navarro",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 411293,
+                            "name": "J. Mosqueira",
+                            "number": 17,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 306548,
+                            "name": "M. Galarza",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 305832,
+                            "name": "M. Galarza Fonda",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6615,
+                            "name": "R. Botta",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6012,
+                            "name": "F. Girotti",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "5:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 35667,
+                            "name": "N. Bustos",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 5887,
+                            "name": "U. Ortegoza",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 48376,
+                            "name": "B. Riveros",
+                            "number": 15,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 133621,
+                            "name": "V. Depietri",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5977,
+                            "name": "E. Reynoso",
+                            "number": 33,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6540,
+                            "name": "J. Rodríguez",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6252,
+                            "name": "S. Palacios",
+                            "number": 34,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 16408,
+                            "name": "J. Burrai",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 119666,
+                            "name": "Rick",
+                            "number": 77,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13151,
+                            "name": "J. Portilla",
+                            "number": 27,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 129883,
+                            "name": "A. Schott",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5312,
+                            "name": "C. Tarragona",
+                            "number": 25,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 349347,
+                            "name": "M. Portillo",
+                            "number": 26,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png",
+                    "colors": {
+                        "player": {
+                            "primary": "213cd3",
+                            "number": "fdfdfd",
+                            "border": "213cd3"
+                        },
+                        "goalkeeper": {
+                            "primary": "d6efb7",
+                            "number": "0f0f0f",
+                            "border": "d6efb7"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2157,
+                    "name": "L. Pusineri",
+                    "photo": "https://media.api-sports.io/football/coachs/2157.png"
+                },
+                "formation": "4-4-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 6421,
+                            "name": "T. Durso",
+                            "number": 25,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6109,
+                            "name": "D. Martínez",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13635,
+                            "name": "M. de los Santos",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6600,
+                            "name": "G. Ferrari",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5291,
+                            "name": "J. Infante",
+                            "number": 32,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 129907,
+                            "name": "R. Ruíz Rodríguez",
+                            "number": 22,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5978,
+                            "name": "A. Sánchez",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6208,
+                            "name": "G. Acosta",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5172,
+                            "name": "N. Castro",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6038,
+                            "name": "L. Díaz",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 58478,
+                            "name": "M. Coronel",
+                            "number": 37,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 126670,
+                            "name": "M. Brizuela",
+                            "number": 33,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5801,
+                            "name": "M. Bajamich",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6187,
+                            "name": "C. Auzqui",
+                            "number": 28,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5442,
+                            "name": "R. Melo",
+                            "number": 41,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 199926,
+                            "name": "N. Laméndola",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 475936,
+                            "name": "L. Godoy",
+                            "number": 24,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6663,
+                            "name": "L. Rodríguez",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 269491,
+                            "name": "J. González",
+                            "number": 12,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 26975,
+                            "name": "M. Orihuela",
+                            "number": 39,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 354656,
+                            "name": "F. Nicola",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 13346,
+                            "name": "L. Cabrera",
+                            "number": 29,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 346677,
+                            "name": "M. Brandán",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Ciudad de Córdoba, Provincia de Córdoba",
+        "temperature": 24.5,
+        "precipitation": 0.0,
+        "wind_speed": 4.8,
+        "weather_code": 1,
+        "timestamp": 1739752200
+    }
+}

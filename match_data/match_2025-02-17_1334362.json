@@ -1,0 +1,1750 @@
+{
+    "fixture": {
+        "id": 1334362,
+        "referee": "S. Trucco",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-17T21:00:00+01:00",
+        "timestamp": 1739822400,
+        "periods": {
+            "first": 1739822400,
+            "second": 1739826000
+        },
+        "venue": {
+            "id": 107,
+            "name": "Estadio Eva Perón de Junín",
+            "city": "Junín, Provincia de Buenos Aires"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+        }
+    },
+    "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2025,
+        "round": "1st Phase - 6",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png",
+            "winner": true
+        },
+        "away": {
+            "id": 476,
+            "name": "Deportivo Riestra",
+            "logo": "https://media.api-sports.io/football/teams/476.png",
+            "winner": false
+        }
+    },
+    "goals": {
+        "home": 2,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 474,
+            "name": "Sarmiento Junin",
+            "logo": "https://media.api-sports.io/football/teams/474.png"
+        },
+        "form": "LDLWWLWLDDDLDDLWLDDDLLLWLDD",
+        "fixtures": {
+            "played": {
+                "home": 14,
+                "away": 13,
+                "total": 27
+            },
+            "wins": {
+                "home": 4,
+                "away": 1,
+                "total": 5
+            },
+            "draws": {
+                "home": 6,
+                "away": 5,
+                "total": 11
+            },
+            "loses": {
+                "home": 4,
+                "away": 7,
+                "total": 11
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 9,
+                    "away": 9,
+                    "total": 18
+                },
+                "average": {
+                    "home": "0.6",
+                    "away": "0.7",
+                    "total": "0.7"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 1,
+                        "percentage": "5.56%"
+                    },
+                    "16-30": {
+                        "total": 6,
+                        "percentage": "33.33%"
+                    },
+                    "31-45": {
+                        "total": 1,
+                        "percentage": "5.56%"
+                    },
+                    "46-60": {
+                        "total": 3,
+                        "percentage": "16.67%"
+                    },
+                    "61-75": {
+                        "total": 2,
+                        "percentage": "11.11%"
+                    },
+                    "76-90": {
+                        "total": 3,
+                        "percentage": "16.67%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "11.11%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 16,
+                        "under": 11
+                    },
+                    "1.5": {
+                        "over": 2,
+                        "under": 25
+                    },
+                    "2.5": {
+                        "over": 0,
+                        "under": 27
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 27
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 10,
+                    "away": 18,
+                    "total": 28
+                },
+                "average": {
+                    "home": "0.7",
+                    "away": "1.4",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 1,
+                        "percentage": "3.57%"
+                    },
+                    "16-30": {
+                        "total": 5,
+                        "percentage": "17.86%"
+                    },
+                    "31-45": {
+                        "total": 8,
+                        "percentage": "28.57%"
+                    },
+                    "46-60": {
+                        "total": 3,
+                        "percentage": "10.71%"
+                    },
+                    "61-75": {
+                        "total": 2,
+                        "percentage": "7.14%"
+                    },
+                    "76-90": {
+                        "total": 7,
+                        "percentage": "25.00%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "7.14%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 10
+                    },
+                    "1.5": {
+                        "over": 7,
+                        "under": 20
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 24
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 2,
+                "draws": 3,
+                "loses": 3
+            },
+            "wins": {
+                "home": "2-0",
+                "away": "0-1"
+            },
+            "loses": {
+                "home": "1-3",
+                "away": "4-2"
+            },
+            "goals": {
+                "for": {
+                    "home": 2,
+                    "away": 2
+                },
+                "against": {
+                    "home": 3,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 8,
+            "away": 2,
+            "total": 10
+        },
+        "failed_to_score": {
+            "home": 6,
+            "away": 5,
+            "total": 11
+        },
+        "penalty": {
+            "scored": {
+                "total": 2,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 2
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 11
+            },
+            {
+                "formation": "4-1-4-1",
+                "played": 4
+            },
+            {
+                "formation": "5-3-2",
+                "played": 3
+            },
+            {
+                "formation": "3-4-2-1",
+                "played": 2
+            },
+            {
+                "formation": "5-4-1",
+                "played": 2
+            },
+            {
+                "formation": "4-3-3",
+                "played": 2
+            },
+            {
+                "formation": "4-4-1-1",
+                "played": 1
+            },
+            {
+                "formation": "4-5-1",
+                "played": 1
+            },
+            {
+                "formation": "3-5-1-1",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 2,
+                    "percentage": "3.08%"
+                },
+                "16-30": {
+                    "total": 7,
+                    "percentage": "10.77%"
+                },
+                "31-45": {
+                    "total": 11,
+                    "percentage": "16.92%"
+                },
+                "46-60": {
+                    "total": 13,
+                    "percentage": "20.00%"
+                },
+                "61-75": {
+                    "total": 12,
+                    "percentage": "18.46%"
+                },
+                "76-90": {
+                    "total": 14,
+                    "percentage": "21.54%"
+                },
+                "91-105": {
+                    "total": 6,
+                    "percentage": "9.23%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 476,
+            "name": "Deportivo Riestra",
+            "logo": "https://media.api-sports.io/football/teams/476.png"
+        },
+        "form": "WLLLWLWLWWLWDWDDLWDDDDDDLDD",
+        "fixtures": {
+            "played": {
+                "home": 14,
+                "away": 13,
+                "total": 27
+            },
+            "wins": {
+                "home": 8,
+                "away": 0,
+                "total": 8
+            },
+            "draws": {
+                "home": 5,
+                "away": 6,
+                "total": 11
+            },
+            "loses": {
+                "home": 1,
+                "away": 7,
+                "total": 8
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 19,
+                    "away": 7,
+                    "total": 26
+                },
+                "average": {
+                    "home": "1.4",
+                    "away": "0.5",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "7.69%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "46-60": {
+                        "total": 6,
+                        "percentage": "23.08%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "76-90": {
+                        "total": 6,
+                        "percentage": "23.08%"
+                    },
+                    "91-105": {
+                        "total": 3,
+                        "percentage": "11.54%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 18,
+                        "under": 9
+                    },
+                    "1.5": {
+                        "over": 6,
+                        "under": 21
+                    },
+                    "2.5": {
+                        "over": 2,
+                        "under": 25
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 27
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 9,
+                    "away": 18,
+                    "total": 27
+                },
+                "average": {
+                    "home": "0.6",
+                    "away": "1.4",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 5,
+                        "percentage": "18.52%"
+                    },
+                    "16-30": {
+                        "total": 5,
+                        "percentage": "18.52%"
+                    },
+                    "31-45": {
+                        "total": 2,
+                        "percentage": "7.41%"
+                    },
+                    "46-60": {
+                        "total": 1,
+                        "percentage": "3.70%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "22.22%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "14.81%"
+                    },
+                    "91-105": {
+                        "total": 4,
+                        "percentage": "14.81%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 15,
+                        "under": 12
+                    },
+                    "1.5": {
+                        "over": 8,
+                        "under": 19
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 24
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 2,
+                "draws": 6,
+                "loses": 3
+            },
+            "wins": {
+                "home": "3-1",
+                "away": null
+            },
+            "loses": {
+                "home": "0-2",
+                "away": "4-1"
+            },
+            "goals": {
+                "for": {
+                    "home": 3,
+                    "away": 1
+                },
+                "against": {
+                    "home": 3,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 8,
+            "away": 4,
+            "total": 12
+        },
+        "failed_to_score": {
+            "home": 3,
+            "away": 6,
+            "total": 9
+        },
+        "penalty": {
+            "scored": {
+                "total": 3,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 3
+        },
+        "lineups": [
+            {
+                "formation": "4-4-2",
+                "played": 13
+            },
+            {
+                "formation": "5-3-2",
+                "played": 11
+            },
+            {
+                "formation": "3-4-3",
+                "played": 2
+            },
+            {
+                "formation": "4-3-1-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 5,
+                    "percentage": "7.69%"
+                },
+                "16-30": {
+                    "total": 8,
+                    "percentage": "12.31%"
+                },
+                "31-45": {
+                    "total": 12,
+                    "percentage": "18.46%"
+                },
+                "46-60": {
+                    "total": 14,
+                    "percentage": "21.54%"
+                },
+                "61-75": {
+                    "total": 10,
+                    "percentage": "15.38%"
+                },
+                "76-90": {
+                    "total": 13,
+                    "percentage": "20.00%"
+                },
+                "91-105": {
+                    "total": 3,
+                    "percentage": "4.62%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": 1,
+                    "percentage": "20.00%"
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "20.00%"
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": 1,
+                    "percentage": "20.00%"
+                },
+                "76-90": {
+                    "total": 2,
+                    "percentage": "40.00%"
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1334362"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 5
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 7
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 14
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 7
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 7
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 7
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 10
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 2
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "72%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 522
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 441
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "84%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 5
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 1
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 1
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 14
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 1
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 0
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "28%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 2
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 3
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 214
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 123
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "57%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1334362"
+        },
+        "errors": [],
+        "results": 17,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 33,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 5415,
+                    "name": "N. Benegas"
+                },
+                "assist": {
+                    "id": 59355,
+                    "name": "J. Herrera"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 304378,
+                    "name": "M. García"
+                },
+                "assist": {
+                    "id": 313080,
+                    "name": "F. Paradela"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 55,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 5694,
+                    "name": "N. Caro Torres"
+                },
+                "assist": {
+                    "id": 59043,
+                    "name": "E. Tovo"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 55,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 371627,
+                    "name": "M. Sanabria"
+                },
+                "assist": {
+                    "id": 5570,
+                    "name": "M. Bracamonte"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 6645,
+                    "name": "A. Vigo"
+                },
+                "assist": {
+                    "id": 294605,
+                    "name": "J. Gho"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 362526,
+                    "name": "G. Díaz"
+                },
+                "assist": {
+                    "id": 6309,
+                    "name": "V. Burgoa"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 11417,
+                    "name": "Juan Manuel Insaurralde"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 68,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 5561,
+                    "name": "P. Magnín"
+                },
+                "assist": {
+                    "id": 296962,
+                    "name": "F. Frías"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 72,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 6247,
+                    "name": "C. Villalba"
+                },
+                "assist": {
+                    "id": 6306,
+                    "name": "J. Andrada"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 72,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 278365,
+                    "name": "P. Ramírez"
+                },
+                "assist": {
+                    "id": 59357,
+                    "name": "B. Sánchez"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 72,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 5415,
+                    "name": "N. Benegas"
+                },
+                "assist": {
+                    "id": 411409,
+                    "name": "G. Obredor"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 77,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 59200,
+                    "name": "Milton Celiz"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 80,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 411409,
+                    "name": "Gabriel Obredor"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Handball"
+            },
+            {
+                "time": {
+                    "elapsed": 84,
+                    "extra": null
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 6471,
+                    "name": "G. Carabajal"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Penalty",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 89,
+                    "extra": null
+                },
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png"
+                },
+                "player": {
+                    "id": 59338,
+                    "name": "J. Goitía"
+                },
+                "assist": {
+                    "id": 106319,
+                    "name": "A. Alonso"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 5
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 6471,
+                    "name": "G. Carabajal"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Penalty",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 4
+                },
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png"
+                },
+                "player": {
+                    "id": 313080,
+                    "name": "Federico Paradela"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Penalty confirmed",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1334362"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png",
+                    "colors": {
+                        "player": {
+                            "primary": "4aa575",
+                            "number": "ffffff",
+                            "border": "4aa575"
+                        },
+                        "goalkeeper": {
+                            "primary": "cf4f96",
+                            "number": "ffffff",
+                            "border": "cf4f96"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 648,
+                    "name": "J. Sanguinetti",
+                    "photo": "https://media.api-sports.io/football/coachs/648.png"
+                },
+                "formation": "3-1-4-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 6563,
+                            "name": "Lucas Acosta",
+                            "number": 42,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 922,
+                            "name": "F. Roncaglia",
+                            "number": 14,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 11417,
+                            "name": "J. Insaurralde",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 307843,
+                            "name": "S. Morales",
+                            "number": 36,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6247,
+                            "name": "C. Villalba",
+                            "number": 25,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6645,
+                            "name": "A. Vigo",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": "4:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 304378,
+                            "name": "M. García",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6471,
+                            "name": "G. Carabajal",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 362526,
+                            "name": "G. Díaz",
+                            "number": 33,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2565,
+                            "name": "I. Morales",
+                            "number": 18,
+                            "pos": "F",
+                            "grid": "5:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5561,
+                            "name": "P. Magnín",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 313080,
+                            "name": "F. Paradela",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 294605,
+                            "name": "J. Gho",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6309,
+                            "name": "V. Burgoa",
+                            "number": 22,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 296962,
+                            "name": "F. Frías",
+                            "number": 20,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6306,
+                            "name": "J. Andrada",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 465447,
+                            "name": "T. Guiacobini",
+                            "number": 31,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 472197,
+                            "name": "B. Márquez",
+                            "number": 40,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 456732,
+                            "name": "J. Vallejos",
+                            "number": 17,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 469328,
+                            "name": "A. Seyral",
+                            "number": 34,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 58607,
+                            "name": "Y. Arismendi",
+                            "number": 26,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 426454,
+                            "name": "T. Ayala",
+                            "number": 12,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 195506,
+                            "name": "R. Orihuela",
+                            "number": 44,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png",
+                    "colors": {
+                        "player": {
+                            "primary": "28272c",
+                            "number": "ffffff",
+                            "border": "28272c"
+                        },
+                        "goalkeeper": {
+                            "primary": "faa447",
+                            "number": "0a0000",
+                            "border": "faa447"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 14853,
+                    "name": "C. Fabbiani",
+                    "photo": "https://media.api-sports.io/football/coachs/14853.png"
+                },
+                "formation": "5-3-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 5774,
+                            "name": "I. Arce",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59338,
+                            "name": "J. Goitía",
+                            "number": 27,
+                            "pos": "D",
+                            "grid": "2:5"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5526,
+                            "name": "N. Sansotre",
+                            "number": 15,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5545,
+                            "name": "C. Paz",
+                            "number": 22,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5694,
+                            "name": "N. Caro Torres",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 278365,
+                            "name": "P. Ramírez",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59200,
+                            "name": "M. Céliz",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 294454,
+                            "name": "P. Monje",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 371627,
+                            "name": "M. Sanabria",
+                            "number": 37,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5415,
+                            "name": "N. Benegas",
+                            "number": 32,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59355,
+                            "name": "J. Herrera",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 59043,
+                            "name": "E. Tovo",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5570,
+                            "name": "M. Bracamonte",
+                            "number": 36,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59357,
+                            "name": "B. Sánchez",
+                            "number": 35,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 411409,
+                            "name": "G. Obredor",
+                            "number": 40,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 106319,
+                            "name": "A. Alonso",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 59344,
+                            "name": "G. Bravo",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6061,
+                            "name": "A. Muñoz",
+                            "number": 25,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6617,
+                            "name": "A. Díaz",
+                            "number": 20,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 294447,
+                            "name": "F. Miño",
+                            "number": 24,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5617,
+                            "name": "G. Fernández",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 309825,
+                            "name": "N. Manganelli",
+                            "number": 12,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5361,
+                            "name": "M. Ramírez",
+                            "number": 23,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Junín, Provincia de Buenos Aires",
+        "temperature": 28.3,
+        "precipitation": 0.0,
+        "wind_speed": 15.5,
+        "weather_code": 0,
+        "timestamp": 1739822400
+    }
+}

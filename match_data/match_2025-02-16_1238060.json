@@ -1,0 +1,1752 @@
+{
+    "fixture": {
+        "id": 1238060,
+        "referee": "Y. Kol",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-16T14:00:00+01:00",
+        "timestamp": 1739710800,
+        "periods": {
+            "first": 1739710800,
+            "second": 1739714400
+        },
+        "venue": {
+            "id": null,
+            "name": "Medaş Konya Büyükşehir Stadyumu",
+            "city": "Konya"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+        }
+    },
+    "league": {
+        "id": 203,
+        "name": "Süper Lig",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/leagues/203.png",
+        "flag": "https://media.api-sports.io/flags/tr.svg",
+        "season": 2024,
+        "round": "Regular Season - 24",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 607,
+            "name": "Konyaspor",
+            "logo": "https://media.api-sports.io/football/teams/607.png",
+            "winner": false
+        },
+        "away": {
+            "id": 3603,
+            "name": "Samsunspor",
+            "logo": "https://media.api-sports.io/football/teams/3603.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 0,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 203,
+            "name": "Süper Lig",
+            "country": "Turkey",
+            "logo": "https://media.api-sports.io/football/leagues/203.png",
+            "flag": "https://media.api-sports.io/flags/tr.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 607,
+            "name": "Konyaspor",
+            "logo": "https://media.api-sports.io/football/teams/607.png"
+        },
+        "form": "WLLDWDLWLLWLDWDDLLDLWLL",
+        "fixtures": {
+            "played": {
+                "home": 11,
+                "away": 12,
+                "total": 23
+            },
+            "wins": {
+                "home": 3,
+                "away": 3,
+                "total": 6
+            },
+            "draws": {
+                "home": 5,
+                "away": 1,
+                "total": 6
+            },
+            "loses": {
+                "home": 3,
+                "away": 8,
+                "total": 11
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 16,
+                    "away": 13,
+                    "total": 29
+                },
+                "average": {
+                    "home": "1.5",
+                    "away": "1.1",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 4,
+                        "percentage": "12.90%"
+                    },
+                    "16-30": {
+                        "total": 6,
+                        "percentage": "19.35%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "12.90%"
+                    },
+                    "46-60": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "76-90": {
+                        "total": 5,
+                        "percentage": "16.13%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "6.45%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 6
+                    },
+                    "1.5": {
+                        "over": 8,
+                        "under": 15
+                    },
+                    "2.5": {
+                        "over": 4,
+                        "under": 19
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 23
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 23
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 15,
+                    "away": 22,
+                    "total": 37
+                },
+                "average": {
+                    "home": "1.4",
+                    "away": "1.8",
+                    "total": "1.6"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 4,
+                        "percentage": "11.43%"
+                    },
+                    "16-30": {
+                        "total": 6,
+                        "percentage": "17.14%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "8.57%"
+                    },
+                    "46-60": {
+                        "total": 10,
+                        "percentage": "28.57%"
+                    },
+                    "61-75": {
+                        "total": 4,
+                        "percentage": "11.43%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "11.43%"
+                    },
+                    "91-105": {
+                        "total": 4,
+                        "percentage": "11.43%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 19,
+                        "under": 4
+                    },
+                    "1.5": {
+                        "over": 12,
+                        "under": 11
+                    },
+                    "2.5": {
+                        "over": 6,
+                        "under": 17
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 23
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 23
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 1,
+                "draws": 2,
+                "loses": 2
+            },
+            "wins": {
+                "home": "3-1",
+                "away": "2-3"
+            },
+            "loses": {
+                "home": "2-3",
+                "away": "3-1"
+            },
+            "goals": {
+                "for": {
+                    "home": 3,
+                    "away": 3
+                },
+                "against": {
+                    "home": 3,
+                    "away": 3
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 2,
+            "away": 2,
+            "total": 4
+        },
+        "failed_to_score": {
+            "home": 3,
+            "away": 3,
+            "total": 6
+        },
+        "penalty": {
+            "scored": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 0
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 11
+            },
+            {
+                "formation": "4-1-4-1",
+                "played": 10
+            },
+            {
+                "formation": "3-4-1-2",
+                "played": 1
+            },
+            {
+                "formation": "4-4-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 7,
+                    "percentage": "10.94%"
+                },
+                "16-30": {
+                    "total": 7,
+                    "percentage": "10.94%"
+                },
+                "31-45": {
+                    "total": 7,
+                    "percentage": "10.94%"
+                },
+                "46-60": {
+                    "total": 12,
+                    "percentage": "18.75%"
+                },
+                "61-75": {
+                    "total": 5,
+                    "percentage": "7.81%"
+                },
+                "76-90": {
+                    "total": 11,
+                    "percentage": "17.19%"
+                },
+                "91-105": {
+                    "total": 14,
+                    "percentage": "21.88%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                },
+                "": {
+                    "total": 1,
+                    "percentage": "1.56%"
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "100.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 203,
+            "name": "Süper Lig",
+            "country": "Turkey",
+            "logo": "https://media.api-sports.io/football/leagues/203.png",
+            "flag": "https://media.api-sports.io/flags/tr.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 3603,
+            "name": "Samsunspor",
+            "logo": "https://media.api-sports.io/football/teams/3603.png"
+        },
+        "form": "LWWLWWWWDWWLDWLDWWDWLWW",
+        "fixtures": {
+            "played": {
+                "home": 11,
+                "away": 12,
+                "total": 23
+            },
+            "wins": {
+                "home": 7,
+                "away": 7,
+                "total": 14
+            },
+            "draws": {
+                "home": 2,
+                "away": 2,
+                "total": 4
+            },
+            "loses": {
+                "home": 2,
+                "away": 3,
+                "total": 5
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 21,
+                    "away": 16,
+                    "total": 37
+                },
+                "average": {
+                    "home": "1.9",
+                    "away": "1.3",
+                    "total": "1.6"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 7,
+                        "percentage": "18.42%"
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "5.26%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "10.53%"
+                    },
+                    "46-60": {
+                        "total": 8,
+                        "percentage": "21.05%"
+                    },
+                    "61-75": {
+                        "total": 7,
+                        "percentage": "18.42%"
+                    },
+                    "76-90": {
+                        "total": 5,
+                        "percentage": "13.16%"
+                    },
+                    "91-105": {
+                        "total": 5,
+                        "percentage": "13.16%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 6
+                    },
+                    "1.5": {
+                        "over": 12,
+                        "under": 11
+                    },
+                    "2.5": {
+                        "over": 5,
+                        "under": 18
+                    },
+                    "3.5": {
+                        "over": 3,
+                        "under": 20
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 23
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 11,
+                    "away": 12,
+                    "total": 23
+                },
+                "average": {
+                    "home": "1.0",
+                    "away": "1.0",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 2,
+                        "percentage": "9.09%"
+                    },
+                    "16-30": {
+                        "total": 3,
+                        "percentage": "13.64%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "18.18%"
+                    },
+                    "46-60": {
+                        "total": 7,
+                        "percentage": "31.82%"
+                    },
+                    "61-75": {
+                        "total": 4,
+                        "percentage": "18.18%"
+                    },
+                    "76-90": {
+                        "total": 2,
+                        "percentage": "9.09%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 12,
+                        "under": 11
+                    },
+                    "1.5": {
+                        "over": 6,
+                        "under": 17
+                    },
+                    "2.5": {
+                        "over": 4,
+                        "under": 19
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 22
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 23
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 4,
+                "draws": 1,
+                "loses": 1
+            },
+            "wins": {
+                "home": "4-0",
+                "away": "1-4"
+            },
+            "loses": {
+                "home": "0-2",
+                "away": "4-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 4,
+                    "away": 4
+                },
+                "against": {
+                    "home": 3,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 4,
+            "away": 7,
+            "total": 11
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 4,
+            "total": 6
+        },
+        "penalty": {
+            "scored": {
+                "total": 2,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 2
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 17
+            },
+            {
+                "formation": "4-1-4-1",
+                "played": 4
+            },
+            {
+                "formation": "4-3-3",
+                "played": 2
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 4,
+                    "percentage": "6.90%"
+                },
+                "16-30": {
+                    "total": 7,
+                    "percentage": "12.07%"
+                },
+                "31-45": {
+                    "total": 8,
+                    "percentage": "13.79%"
+                },
+                "46-60": {
+                    "total": 11,
+                    "percentage": "18.97%"
+                },
+                "61-75": {
+                    "total": 6,
+                    "percentage": "10.34%"
+                },
+                "76-90": {
+                    "total": 11,
+                    "percentage": "18.97%"
+                },
+                "91-105": {
+                    "total": 11,
+                    "percentage": "18.97%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": 1,
+                    "percentage": "100.00%"
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1238060"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 3
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 9
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 6
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 12
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 7
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 2
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "55%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 4
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 4
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 369
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 278
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "75%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "1.23"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 6
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 3
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 10
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 1
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 14
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 1
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "45%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 6
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 3
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 321
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 223
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "69%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "1.10"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1238060"
+        },
+        "errors": [],
+        "results": 20,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 2,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 20044,
+                    "name": "M. Bola"
+                },
+                "assist": {
+                    "id": 453,
+                    "name": "C. Yüksel"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 8,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 61939,
+                    "name": "Oğulcan Ülgün"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 19,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 394,
+                    "name": "Marius Mouandilmadji"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 21,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 15837,
+                    "name": "Carlo Holse"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 25,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 40328,
+                    "name": "Jakub Słowik"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Argument"
+            },
+            {
+                "time": {
+                    "elapsed": 41,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 2709,
+                    "name": "Youssef Aït Bennasser"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 37175,
+                    "name": "R. Bazoer"
+                },
+                "assist": {
+                    "id": 50063,
+                    "name": "U. Yazğılı"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 55,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 49919,
+                    "name": "Danijel Aleksić"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 58,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 453,
+                    "name": "Celil Yüksel"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 61939,
+                    "name": "O. Ülgün"
+                },
+                "assist": {
+                    "id": 50246,
+                    "name": "U. Nayir"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 50234,
+                    "name": "Y. Erdoğan"
+                },
+                "assist": {
+                    "id": 161880,
+                    "name": "T. Taşçı"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 66,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 50008,
+                    "name": "Marko Jevtović"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 69,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 453,
+                    "name": "C. Yüksel"
+                },
+                "assist": {
+                    "id": 1130,
+                    "name": "O. Ntcham"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 76,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 194880,
+                    "name": "A. Ndao"
+                },
+                "assist": {
+                    "id": 152845,
+                    "name": "M. İbrahimoğlu"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 77,
+                    "extra": null
+                },
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png"
+                },
+                "player": {
+                    "id": 50008,
+                    "name": "M. Jevtović"
+                },
+                "assist": {
+                    "id": 43284,
+                    "name": "H. Keyta"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 81,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 15837,
+                    "name": "C. Holse"
+                },
+                "assist": {
+                    "id": 49848,
+                    "name": "S. Aydoğdu"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 86,
+                    "extra": null
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 49848,
+                    "name": "Soner Aydoğdu"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 2
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 20044,
+                    "name": "Marc Bola"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 1434,
+                    "name": "L. Dimata"
+                },
+                "assist": {
+                    "id": 62681,
+                    "name": "S. Gönül"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png"
+                },
+                "player": {
+                    "id": 50091,
+                    "name": "E. Kılınç"
+                },
+                "assist": {
+                    "id": 137403,
+                    "name": "A. Muja"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1238060"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 607,
+                    "name": "Konyaspor",
+                    "logo": "https://media.api-sports.io/football/teams/607.png",
+                    "colors": {
+                        "player": {
+                            "primary": "fcfcfc",
+                            "number": "02895a",
+                            "border": "fcfcfc"
+                        },
+                        "goalkeeper": {
+                            "primary": "7eee33",
+                            "number": "000000",
+                            "border": "7eee33"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 13237,
+                    "name": "R. Uçar",
+                    "photo": "https://media.api-sports.io/football/coachs/13237.png"
+                },
+                "formation": "4-1-4-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 40328,
+                            "name": "J. Słowik",
+                            "number": 27,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 61939,
+                            "name": "O. Ülgün",
+                            "number": 35,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 37175,
+                            "name": "R. Bazoer",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 61986,
+                            "name": "A. Demirbağ",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 40472,
+                            "name": "Guilherme",
+                            "number": 12,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 50008,
+                            "name": "M. Jevtović",
+                            "number": 16,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 194880,
+                            "name": "A. Ndao",
+                            "number": 18,
+                            "pos": "M",
+                            "grid": "4:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 49919,
+                            "name": "D. Aleksić",
+                            "number": 9,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 182072,
+                            "name": "Pedrinho",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 50234,
+                            "name": "Y. Erdoğan",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 119780,
+                            "name": "B. Kramer",
+                            "number": 99,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 50063,
+                            "name": "U. Yazğılı",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 50246,
+                            "name": "U. Nayir",
+                            "number": 22,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 161880,
+                            "name": "T. Taşçı",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 152845,
+                            "name": "M. İbrahimoğlu",
+                            "number": 77,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 43284,
+                            "name": "H. Keyta",
+                            "number": 28,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 301489,
+                            "name": "M. Bostan",
+                            "number": 91,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 15650,
+                            "name": "L. Prip",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 14691,
+                            "name": "J. Ćalušić",
+                            "number": 15,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 402493,
+                            "name": "D. Ertaş",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 62023,
+                            "name": "Y. Subaşı",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 3603,
+                    "name": "Samsunspor",
+                    "logo": "https://media.api-sports.io/football/teams/3603.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ff0000",
+                            "number": "000000",
+                            "border": "ff0000"
+                        },
+                        "goalkeeper": {
+                            "primary": "a3a3a3",
+                            "number": "000000",
+                            "border": "a3a3a3"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 1347,
+                    "name": "T. Reis",
+                    "photo": "https://media.api-sports.io/football/coachs/1347.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 50217,
+                            "name": "O. Kocuk",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2139,
+                            "name": "Z. Yavru",
+                            "number": 18,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 55949,
+                            "name": "Ľ. Šatka",
+                            "number": 37,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 24873,
+                            "name": "R. van Drongelen",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 20044,
+                            "name": "M. Bola",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 453,
+                            "name": "C. Yüksel",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2709,
+                            "name": "Y. Bennasser",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 50091,
+                            "name": "E. Kılınç",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 15837,
+                            "name": "C. Holse",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 1434,
+                            "name": "L. Dimata",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 394,
+                            "name": "M. Mouandilmadji",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 1130,
+                            "name": "O. Ntcham",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 49848,
+                            "name": "S. Aydoğdu",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 62681,
+                            "name": "S. Gönül",
+                            "number": 28,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 137403,
+                            "name": "A. Muja",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41284,
+                            "name": "Nanu",
+                            "number": 2,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 273762,
+                            "name": "Y. Çift",
+                            "number": 55,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 21154,
+                            "name": "F. Tait",
+                            "number": 13,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 339960,
+                            "name": "M. Özbaskıcı",
+                            "number": 20,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2127,
+                            "name": "H. Yeral",
+                            "number": 45,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Konya",
+        "temperature": 12.1,
+        "precipitation": 0.0,
+        "wind_speed": 6.1,
+        "weather_code": 1,
+        "weather_description": "Prevalentemente sereno",
+        "timestamp": 1739710800
+    }
+}

@@ -1,0 +1,1576 @@
+{
+    "fixture": {
+        "id": 1323953,
+        "referee": "F. Nakamura",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-16T06:00:00+01:00",
+        "timestamp": 1739682000,
+        "periods": {
+            "first": 1739682000,
+            "second": 1739685600
+        },
+        "venue": {
+            "id": 960,
+            "name": "Japan National Stadium",
+            "city": "Tokyo"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 9
+        }
+    },
+    "league": {
+        "id": 98,
+        "name": "J1 League",
+        "country": "Japan",
+        "logo": "https://media.api-sports.io/football/leagues/98.png",
+        "flag": "https://media.api-sports.io/flags/jp.svg",
+        "season": 2025,
+        "round": "Regular Season - 1",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 306,
+            "name": "Tokyo Verdy",
+            "logo": "https://media.api-sports.io/football/teams/306.png",
+            "winner": false
+        },
+        "away": {
+            "id": 283,
+            "name": "Shimizu S-pulse",
+            "logo": "https://media.api-sports.io/football/teams/283.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 0,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 306,
+            "name": "Tokyo Verdy",
+            "logo": "https://media.api-sports.io/football/teams/306.png"
+        },
+        "form": "LDLDDWDDDDWWDDLWWLWLWDLWLLDWWWWDLWWDLD",
+        "fixtures": {
+            "played": {
+                "home": 19,
+                "away": 19,
+                "total": 38
+            },
+            "wins": {
+                "home": 6,
+                "away": 8,
+                "total": 14
+            },
+            "draws": {
+                "home": 8,
+                "away": 6,
+                "total": 14
+            },
+            "loses": {
+                "home": 5,
+                "away": 5,
+                "total": 10
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 29,
+                    "away": 22,
+                    "total": 51
+                },
+                "average": {
+                    "home": "1.5",
+                    "away": "1.2",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 7,
+                        "percentage": "14.00%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "8.00%"
+                    },
+                    "31-45": {
+                        "total": 7,
+                        "percentage": "14.00%"
+                    },
+                    "46-60": {
+                        "total": 11,
+                        "percentage": "22.00%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "10.00%"
+                    },
+                    "76-90": {
+                        "total": 9,
+                        "percentage": "18.00%"
+                    },
+                    "91-105": {
+                        "total": 7,
+                        "percentage": "14.00%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 27,
+                        "under": 11
+                    },
+                    "1.5": {
+                        "over": 16,
+                        "under": 22
+                    },
+                    "2.5": {
+                        "over": 5,
+                        "under": 33
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 36
+                    },
+                    "4.5": {
+                        "over": 1,
+                        "under": 37
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 27,
+                    "away": 24,
+                    "total": 51
+                },
+                "average": {
+                    "home": "1.4",
+                    "away": "1.3",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 8,
+                        "percentage": "15.38%"
+                    },
+                    "16-30": {
+                        "total": 8,
+                        "percentage": "15.38%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "7.69%"
+                    },
+                    "46-60": {
+                        "total": 9,
+                        "percentage": "17.31%"
+                    },
+                    "61-75": {
+                        "total": 8,
+                        "percentage": "15.38%"
+                    },
+                    "76-90": {
+                        "total": 8,
+                        "percentage": "15.38%"
+                    },
+                    "91-105": {
+                        "total": 7,
+                        "percentage": "13.46%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 26,
+                        "under": 12
+                    },
+                    "1.5": {
+                        "over": 14,
+                        "under": 24
+                    },
+                    "2.5": {
+                        "over": 6,
+                        "under": 32
+                    },
+                    "3.5": {
+                        "over": 3,
+                        "under": 35
+                    },
+                    "4.5": {
+                        "over": 2,
+                        "under": 36
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 4,
+                "draws": 4,
+                "loses": 2
+            },
+            "wins": {
+                "home": "5-3",
+                "away": "0-2"
+            },
+            "loses": {
+                "home": "0-2",
+                "away": "5-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 5,
+                    "away": 3
+                },
+                "against": {
+                    "home": 5,
+                    "away": 5
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 4,
+            "away": 8,
+            "total": 12
+        },
+        "failed_to_score": {
+            "home": 5,
+            "away": 6,
+            "total": 11
+        },
+        "penalty": {
+            "scored": {
+                "total": 6,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 6
+        },
+        "lineups": [
+            {
+                "formation": "3-4-2-1",
+                "played": 19
+            },
+            {
+                "formation": "4-4-2",
+                "played": 15
+            },
+            {
+                "formation": "3-4-3",
+                "played": 2
+            },
+            {
+                "formation": "4-2-3-1",
+                "played": 1
+            },
+            {
+                "formation": "3-1-4-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 5,
+                    "percentage": "10.64%"
+                },
+                "16-30": {
+                    "total": 3,
+                    "percentage": "6.38%"
+                },
+                "31-45": {
+                    "total": 7,
+                    "percentage": "14.89%"
+                },
+                "46-60": {
+                    "total": 8,
+                    "percentage": "17.02%"
+                },
+                "61-75": {
+                    "total": 12,
+                    "percentage": "25.53%"
+                },
+                "76-90": {
+                    "total": 10,
+                    "percentage": "21.28%"
+                },
+                "91-105": {
+                    "total": 2,
+                    "percentage": "4.26%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 98,
+            "name": "J1 League",
+            "country": "Japan",
+            "logo": "https://media.api-sports.io/football/leagues/98.png",
+            "flag": "https://media.api-sports.io/flags/jp.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 283,
+            "name": "Shimizu S-pulse",
+            "logo": "https://media.api-sports.io/football/teams/283.png"
+        },
+        "form": null,
+        "fixtures": {
+            "played": {
+                "home": 0,
+                "away": 0,
+                "total": 0
+            },
+            "wins": {
+                "home": 0,
+                "away": 0,
+                "total": 0
+            },
+            "draws": {
+                "home": 0,
+                "away": 0,
+                "total": 0
+            },
+            "loses": {
+                "home": 0,
+                "away": 0,
+                "total": 0
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 0,
+                    "away": 0,
+                    "total": 0
+                },
+                "average": {
+                    "home": "0.0",
+                    "away": "0.0",
+                    "total": "0.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "16-30": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "31-45": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "46-60": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "61-75": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "76-90": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "1.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "2.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 0
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 0,
+                    "away": 0,
+                    "total": 0
+                },
+                "average": {
+                    "home": "0.0",
+                    "away": "0.0",
+                    "total": "0.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "16-30": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "31-45": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "46-60": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "61-75": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "76-90": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "1.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "2.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 0
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 0
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 0,
+                "draws": 0,
+                "loses": 0
+            },
+            "wins": {
+                "home": null,
+                "away": null
+            },
+            "loses": {
+                "home": null,
+                "away": null
+            },
+            "goals": {
+                "for": {
+                    "home": 0,
+                    "away": 0
+                },
+                "against": {
+                    "home": 0,
+                    "away": 0
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+        },
+        "failed_to_score": {
+            "home": 0,
+            "away": 0,
+            "total": 0
+        },
+        "penalty": {
+            "scored": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 0
+        },
+        "lineups": [],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1323953"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 6
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 2
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 13
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 6
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 0
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "55%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 496
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 401
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "81%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "0.52"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 8
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 5
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 11
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 1
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "45%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 2
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 411
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 322
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "78%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "0.77"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1323953"
+        },
+        "errors": [],
+        "results": 13,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 40,
+                    "extra": null
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 33354,
+                    "name": "K. Kitagawa"
+                },
+                "assist": {
+                    "id": 416314,
+                    "name": "S. Takagi"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 49,
+                    "extra": null
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 33354,
+                    "name": "Koya Kitagawa"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 56,
+                    "extra": null
+                },
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "player": {
+                    "id": 199915,
+                    "name": "Y. Matsuhashi"
+                },
+                "assist": {
+                    "id": 425765,
+                    "name": "Y. Arai"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 57,
+                    "extra": null
+                },
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "player": {
+                    "id": 33308,
+                    "name": "Y. Fukuda"
+                },
+                "assist": {
+                    "id": 197974,
+                    "name": "I. Someno"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 57,
+                    "extra": null
+                },
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "player": {
+                    "id": 319021,
+                    "name": "H. Yamami"
+                },
+                "assist": {
+                    "id": 32860,
+                    "name": "R. Hirakawa"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "player": {
+                    "id": 32860,
+                    "name": "Rei Hirakawa"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 33354,
+                    "name": "K. Kitagawa"
+                },
+                "assist": {
+                    "id": 11342,
+                    "name": "A. Ahmedov"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 76,
+                    "extra": null
+                },
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "player": {
+                    "id": 404352,
+                    "name": "Y. Tsunashima"
+                },
+                "assist": {
+                    "id": 33771,
+                    "name": "H. Onaga"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 79,
+                    "extra": null
+                },
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png"
+                },
+                "player": {
+                    "id": 319007,
+                    "name": "Y. Kimura"
+                },
+                "assist": {
+                    "id": 422684,
+                    "name": "R. Shirai"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 85,
+                    "extra": null
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 289882,
+                    "name": "R. Yamahara"
+                },
+                "assist": {
+                    "id": 33394,
+                    "name": "Y. Takahashi"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 2600,
+                    "name": "T. Inui"
+                },
+                "assist": {
+                    "id": 32888,
+                    "name": "Y. Yoshida"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 351084,
+                    "name": "Z. Uno"
+                },
+                "assist": {
+                    "id": 33971,
+                    "name": "K. Miyamoto"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png"
+                },
+                "player": {
+                    "id": 109292,
+                    "name": "H. Nakahara"
+                },
+                "assist": {
+                    "id": 495502,
+                    "name": "Y. Shimamoto"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1323953"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 306,
+                    "name": "Tokyo Verdy",
+                    "logo": "https://media.api-sports.io/football/teams/306.png",
+                    "colors": {
+                        "player": {
+                            "primary": "48af84",
+                            "number": "ffffff",
+                            "border": "48af84"
+                        },
+                        "goalkeeper": {
+                            "primary": "e9f334",
+                            "number": "ffffff",
+                            "border": "e9f334"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 554,
+                    "name": "H. Jofuku",
+                    "photo": "https://media.api-sports.io/football/coachs/554.png"
+                },
+                "formation": "3-4-2-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 80392,
+                            "name": "Matheus Vidotto",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 404352,
+                            "name": "Y. Tsunashima",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 109337,
+                            "name": "K. Chida",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 353589,
+                            "name": "H. Taniguchi",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32898,
+                            "name": "K. Miyahara",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33839,
+                            "name": "K. Saito",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33799,
+                            "name": "K. Morita",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 199915,
+                            "name": "Y. Matsuhashi",
+                            "number": 19,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 319021,
+                            "name": "H. Yamami",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33308,
+                            "name": "Y. Fukuda",
+                            "number": 14,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 319007,
+                            "name": "Y. Kimura",
+                            "number": 10,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 425765,
+                            "name": "Y. Arai",
+                            "number": 40,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 197974,
+                            "name": "I. Someno",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32860,
+                            "name": "R. Hirakawa",
+                            "number": 16,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33771,
+                            "name": "H. Onaga",
+                            "number": 22,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 422684,
+                            "name": "R. Shirai",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 409625,
+                            "name": "I. Kumatoriya",
+                            "number": 25,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 353590,
+                            "name": "T. Inami",
+                            "number": 17,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 109385,
+                            "name": "Y. Nagasawa",
+                            "number": 21,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 109241,
+                            "name": "S. Meshino",
+                            "number": 20,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 283,
+                    "name": "Shimizu S-pulse",
+                    "logo": "https://media.api-sports.io/football/teams/283.png",
+                    "colors": {
+                        "player": {
+                            "primary": "f25e36",
+                            "number": "000000",
+                            "border": "f25e36"
+                        },
+                        "goalkeeper": {
+                            "primary": "19720e",
+                            "number": "ffffff",
+                            "border": "19720e"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 7732,
+                    "name": "T. Akiba",
+                    "photo": "https://media.api-sports.io/football/coachs/7732.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 33061,
+                            "name": "Y. Oki",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 416314,
+                            "name": "S. Takagi",
+                            "number": 70,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 199891,
+                            "name": "J. Sumiyoshi",
+                            "number": 66,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 281944,
+                            "name": "S. Hasukawa",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 289882,
+                            "name": "R. Yamahara",
+                            "number": 14,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 9354,
+                            "name": "Matheus Bueno",
+                            "number": 98,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 351084,
+                            "name": "Z. Uno",
+                            "number": 36,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 109292,
+                            "name": "H. Nakahara",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 2600,
+                            "name": "T. Inui",
+                            "number": 33,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 9617,
+                            "name": "Capixaba",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33354,
+                            "name": "K. Kitagawa",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 11342,
+                            "name": "A. Ahmedov",
+                            "number": 29,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33394,
+                            "name": "Y. Takahashi",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32888,
+                            "name": "Y. Yoshida",
+                            "number": 28,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33971,
+                            "name": "K. Miyamoto",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 495502,
+                            "name": "Y. Shimamoto",
+                            "number": 47,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 422375,
+                            "name": "Y. Inokoshi",
+                            "number": 71,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 199845,
+                            "name": "K. Matsuzaki",
+                            "number": 19,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 41532,
+                            "name": "Douglas Tanque",
+                            "number": 99,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 33821,
+                            "name": "K. Kitazume",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Tokyo",
+        "temperature": 16.4,
+        "precipitation": 0.0,
+        "wind_speed": 5.8,
+        "weather_code": 3,
+        "weather_description": "Cielo coperto",
+        "timestamp": 1739682000
+    }
+}

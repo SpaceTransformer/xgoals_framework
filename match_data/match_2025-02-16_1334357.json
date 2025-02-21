@@ -1,0 +1,1859 @@
+{
+    "fixture": {
+        "id": 1334357,
+        "referee": "H. Mastrángelo",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-16T01:30:00+01:00",
+        "timestamp": 1739665800,
+        "periods": {
+            "first": 1739665800,
+            "second": 1739669400
+        },
+        "venue": {
+            "id": 99,
+            "name": "Estadio Presidente Juan Domingo Perón",
+            "city": "Avellaneda, Provincia de Buenos Aires"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+        }
+    },
+    "league": {
+        "id": 128,
+        "name": "Liga Profesional Argentina",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/128.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2025,
+        "round": "1st Phase - 6",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 436,
+            "name": "Racing Club",
+            "logo": "https://media.api-sports.io/football/teams/436.png",
+            "winner": false
+        },
+        "away": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 2,
+        "away": 3
+    },
+    "home_stats": {
+        "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 436,
+            "name": "Racing Club",
+            "logo": "https://media.api-sports.io/football/teams/436.png"
+        },
+        "form": "DWWWLWLWDLWDLWLDLWLWWWWWLLW",
+        "fixtures": {
+            "played": {
+                "home": 13,
+                "away": 14,
+                "total": 27
+            },
+            "wins": {
+                "home": 9,
+                "away": 5,
+                "total": 14
+            },
+            "draws": {
+                "home": 2,
+                "away": 2,
+                "total": 4
+            },
+            "loses": {
+                "home": 2,
+                "away": 7,
+                "total": 9
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 25,
+                    "away": 17,
+                    "total": 42
+                },
+                "average": {
+                    "home": "1.9",
+                    "away": "1.2",
+                    "total": "1.6"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 4,
+                        "percentage": "9.52%"
+                    },
+                    "16-30": {
+                        "total": 9,
+                        "percentage": "21.43%"
+                    },
+                    "31-45": {
+                        "total": 5,
+                        "percentage": "11.90%"
+                    },
+                    "46-60": {
+                        "total": 8,
+                        "percentage": "19.05%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "14.29%"
+                    },
+                    "76-90": {
+                        "total": 9,
+                        "percentage": "21.43%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "2.38%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 19,
+                        "under": 8
+                    },
+                    "1.5": {
+                        "over": 13,
+                        "under": 14
+                    },
+                    "2.5": {
+                        "over": 6,
+                        "under": 21
+                    },
+                    "3.5": {
+                        "over": 4,
+                        "under": 23
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 13,
+                    "away": 17,
+                    "total": 30
+                },
+                "average": {
+                    "home": "1.0",
+                    "away": "1.2",
+                    "total": "1.1"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 6,
+                        "percentage": "20.00%"
+                    },
+                    "16-30": {
+                        "total": 6,
+                        "percentage": "20.00%"
+                    },
+                    "31-45": {
+                        "total": 1,
+                        "percentage": "3.33%"
+                    },
+                    "46-60": {
+                        "total": 4,
+                        "percentage": "13.33%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "20.00%"
+                    },
+                    "76-90": {
+                        "total": 6,
+                        "percentage": "20.00%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "3.33%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 16,
+                        "under": 11
+                    },
+                    "1.5": {
+                        "over": 7,
+                        "under": 20
+                    },
+                    "2.5": {
+                        "over": 4,
+                        "under": 23
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 25
+                    },
+                    "4.5": {
+                        "over": 1,
+                        "under": 26
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 5,
+                "draws": 1,
+                "loses": 2
+            },
+            "wins": {
+                "home": "3-0",
+                "away": "0-4"
+            },
+            "loses": {
+                "home": "4-5",
+                "away": "3-1"
+            },
+            "goals": {
+                "for": {
+                    "home": 4,
+                    "away": 4
+                },
+                "against": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 6,
+            "away": 5,
+            "total": 11
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 6,
+            "total": 8
+        },
+        "penalty": {
+            "scored": {
+                "total": 3,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 3
+        },
+        "lineups": [
+            {
+                "formation": "4-3-3",
+                "played": 7
+            },
+            {
+                "formation": "3-4-3",
+                "played": 6
+            },
+            {
+                "formation": "3-4-2-1",
+                "played": 5
+            },
+            {
+                "formation": "4-1-4-1",
+                "played": 5
+            },
+            {
+                "formation": "4-2-3-1",
+                "played": 2
+            },
+            {
+                "formation": "5-4-1",
+                "played": 1
+            },
+            {
+                "formation": "3-4-1-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 5,
+                    "percentage": "8.06%"
+                },
+                "16-30": {
+                    "total": 3,
+                    "percentage": "4.84%"
+                },
+                "31-45": {
+                    "total": 10,
+                    "percentage": "16.13%"
+                },
+                "46-60": {
+                    "total": 6,
+                    "percentage": "9.68%"
+                },
+                "61-75": {
+                    "total": 13,
+                    "percentage": "20.97%"
+                },
+                "76-90": {
+                    "total": 17,
+                    "percentage": "27.42%"
+                },
+                "91-105": {
+                    "total": 7,
+                    "percentage": "11.29%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                },
+                "": {
+                    "total": 1,
+                    "percentage": "1.61%"
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 128,
+            "name": "Liga Profesional Argentina",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/128.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 458,
+            "name": "Argentinos JRS",
+            "logo": "https://media.api-sports.io/football/teams/458.png"
+        },
+        "form": "WLWLWLLWLDLDLWDDLWLDLWLLLWD",
+        "fixtures": {
+            "played": {
+                "home": 14,
+                "away": 13,
+                "total": 27
+            },
+            "wins": {
+                "home": 8,
+                "away": 0,
+                "total": 8
+            },
+            "draws": {
+                "home": 4,
+                "away": 2,
+                "total": 6
+            },
+            "loses": {
+                "home": 2,
+                "away": 11,
+                "total": 13
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 17,
+                    "away": 5,
+                    "total": 22
+                },
+                "average": {
+                    "home": "1.2",
+                    "away": "0.4",
+                    "total": "0.8"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 2,
+                        "percentage": "9.52%"
+                    },
+                    "16-30": {
+                        "total": 3,
+                        "percentage": "14.29%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "19.05%"
+                    },
+                    "46-60": {
+                        "total": 7,
+                        "percentage": "33.33%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "14.29%"
+                    },
+                    "76-90": {
+                        "total": 1,
+                        "percentage": "4.76%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "4.76%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 13,
+                        "under": 14
+                    },
+                    "1.5": {
+                        "over": 6,
+                        "under": 21
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 24
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 27
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 7,
+                    "away": 21,
+                    "total": 28
+                },
+                "average": {
+                    "home": "0.5",
+                    "away": "1.6",
+                    "total": "1.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 6,
+                        "percentage": "20.69%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "46-60": {
+                        "total": 4,
+                        "percentage": "13.79%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "17.24%"
+                    },
+                    "76-90": {
+                        "total": 6,
+                        "percentage": "20.69%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 10
+                    },
+                    "1.5": {
+                        "over": 9,
+                        "under": 18
+                    },
+                    "2.5": {
+                        "over": 2,
+                        "under": 25
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 27
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 27
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 1,
+                "draws": 2,
+                "loses": 3
+            },
+            "wins": {
+                "home": "3-0",
+                "away": null
+            },
+            "loses": {
+                "home": "0-2",
+                "away": "3-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 3,
+                    "away": 2
+                },
+                "against": {
+                    "home": 2,
+                    "away": 3
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 9,
+            "away": 1,
+            "total": 10
+        },
+        "failed_to_score": {
+            "home": 5,
+            "away": 9,
+            "total": 14
+        },
+        "penalty": {
+            "scored": {
+                "total": 1,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 1
+        },
+        "lineups": [
+            {
+                "formation": "4-1-3-2",
+                "played": 6
+            },
+            {
+                "formation": "4-3-1-2",
+                "played": 5
+            },
+            {
+                "formation": "4-2-3-1",
+                "played": 5
+            },
+            {
+                "formation": "4-3-3",
+                "played": 3
+            },
+            {
+                "formation": "5-3-2",
+                "played": 3
+            },
+            {
+                "formation": "4-2-2-2",
+                "played": 1
+            },
+            {
+                "formation": "3-4-2-1",
+                "played": 1
+            },
+            {
+                "formation": "3-4-3",
+                "played": 1
+            },
+            {
+                "formation": "4-4-2",
+                "played": 1
+            },
+            {
+                "formation": "4-1-4-1",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 6,
+                    "percentage": "8.82%"
+                },
+                "16-30": {
+                    "total": 7,
+                    "percentage": "10.29%"
+                },
+                "31-45": {
+                    "total": 13,
+                    "percentage": "19.12%"
+                },
+                "46-60": {
+                    "total": 10,
+                    "percentage": "14.71%"
+                },
+                "61-75": {
+                    "total": 14,
+                    "percentage": "20.59%"
+                },
+                "76-90": {
+                    "total": 11,
+                    "percentage": "16.18%"
+                },
+                "91-105": {
+                    "total": 7,
+                    "percentage": "10.29%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": 1,
+                    "percentage": "14.29%"
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "14.29%"
+                },
+                "46-60": {
+                    "total": 1,
+                    "percentage": "14.29%"
+                },
+                "61-75": {
+                    "total": 2,
+                    "percentage": "28.57%"
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 2,
+                    "percentage": "28.57%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1334357"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 6
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 13
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 4
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 10
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 12
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 7
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 1
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "53%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 3
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 3
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 396
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 304
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "77%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 7
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 4
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 14
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 10
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 4
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 13
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 5
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 4
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "47%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 3
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": null
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 369
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 273
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "74%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1334357"
+        },
+        "errors": [],
+        "results": 21,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 3,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 51278,
+                    "name": "E. Godoy"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 5,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 289466,
+                    "name": "M. Di Cesare"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 22,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 358383,
+                    "name": "A. Lescano"
+                },
+                "assist": {
+                    "id": 51332,
+                    "name": "L. Lozano"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 28,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 75989,
+                    "name": "T. Molina"
+                },
+                "assist": {
+                    "id": 354791,
+                    "name": "J. Herrera"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 34,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 306543,
+                    "name": "R. Vega"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 414424,
+                    "name": "G. Escudero"
+                },
+                "assist": {
+                    "id": 2477,
+                    "name": "M. Zaracho"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 5970,
+                    "name": "E. Almendra"
+                },
+                "assist": {
+                    "id": 6008,
+                    "name": "B. Zuculini"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 47,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 5546,
+                    "name": "S. Prieto"
+                },
+                "assist": {
+                    "id": 358383,
+                    "name": "A. Lescano"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 6008,
+                    "name": "B. Zuculini"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 66,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 170127,
+                    "name": "S. Solari"
+                },
+                "assist": {
+                    "id": 169928,
+                    "name": "A. Fernández"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 68,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 354791,
+                    "name": "J. Herrera"
+                },
+                "assist": {
+                    "id": 58688,
+                    "name": "S. Rodríguez"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 68,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 75989,
+                    "name": "T. Molina"
+                },
+                "assist": {
+                    "id": 35671,
+                    "name": "I. Sosa"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 68,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 11832,
+                    "name": "N. Oroz"
+                },
+                "assist": {
+                    "id": 311353,
+                    "name": "E. Viveros"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 73,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 5554,
+                    "name": "F. Fattori"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 75,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 363341,
+                    "name": "B. Rodriguez"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 77,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 358383,
+                    "name": "A. Lescano"
+                },
+                "assist": {
+                    "id": 414518,
+                    "name": "L. Gómez"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 78,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 11493,
+                    "name": "M. Salas"
+                },
+                "assist": {
+                    "id": 417282,
+                    "name": "R. Degregorio"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 81,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 129882,
+                    "name": "J. Nardoni"
+                },
+                "assist": {
+                    "id": 51694,
+                    "name": "M. Barrios"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 83,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 51694,
+                    "name": "M. Barrios"
+                },
+                "assist": {
+                    "id": 6008,
+                    "name": "B. Zuculini"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 88,
+                    "extra": null
+                },
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png"
+                },
+                "player": {
+                    "id": 289466,
+                    "name": "M. Di Césare"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 89,
+                    "extra": null
+                },
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png"
+                },
+                "player": {
+                    "id": 5546,
+                    "name": "S. Prieto"
+                },
+                "assist": {
+                    "id": 404572,
+                    "name": "A. Gamarra"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1334357"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "19181a",
+                            "border": "ffffff"
+                        },
+                        "goalkeeper": {
+                            "primary": "41c89c",
+                            "number": "f5f5f5",
+                            "border": "41c89c"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 649,
+                    "name": "G. Costas",
+                    "photo": "https://media.api-sports.io/football/coachs/649.png"
+                },
+                "formation": "3-4-2-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 2547,
+                            "name": "G. Arias",
+                            "number": 21,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 289466,
+                            "name": "M. Di Césare",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 125177,
+                            "name": "N. Colombo",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 414424,
+                            "name": "G. Escudero",
+                            "number": 43,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 197520,
+                            "name": "G. Martirena",
+                            "number": 15,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 129882,
+                            "name": "J. Nardoni",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5970,
+                            "name": "E. Almendra",
+                            "number": 32,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6608,
+                            "name": "G. Rojas",
+                            "number": 27,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 170127,
+                            "name": "S. Solari",
+                            "number": 28,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 11493,
+                            "name": "M. Salas",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 11775,
+                            "name": "A. Balboa",
+                            "number": 77,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 2477,
+                            "name": "M. Zaracho",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6008,
+                            "name": "B. Zuculini",
+                            "number": 36,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 169928,
+                            "name": "A. Fernández",
+                            "number": 24,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 417282,
+                            "name": "R. Degregorio",
+                            "number": 41,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 51694,
+                            "name": "M. Barrios",
+                            "number": 16,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 363341,
+                            "name": "B. Rodríguez",
+                            "number": 37,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 465124,
+                            "name": "F. Fraga",
+                            "number": 40,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 404631,
+                            "name": "S. Quirós",
+                            "number": 35,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6364,
+                            "name": "F. Cambeses",
+                            "number": 25,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 310181,
+                            "name": "I. Rodríguez",
+                            "number": 19,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 559,
+                            "name": "G. Conti",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6401,
+                            "name": "F. Mura",
+                            "number": 34,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png",
+                    "colors": {
+                        "player": {
+                            "primary": "dd2d2f",
+                            "number": "ffffff",
+                            "border": "dd2d2f"
+                        },
+                        "goalkeeper": {
+                            "primary": "799318",
+                            "number": "ffffff",
+                            "border": "799318"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 24334,
+                    "name": "N. Diez",
+                    "photo": "https://media.api-sports.io/football/coachs/24334.png"
+                },
+                "formation": "5-4-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 5931,
+                            "name": "D. Rodríguez",
+                            "number": 50,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 51332,
+                            "name": "L. Lozano",
+                            "number": 22,
+                            "pos": "D",
+                            "grid": "2:5"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 6533,
+                            "name": "F. Álvarez",
+                            "number": 16,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 51278,
+                            "name": "É. Godoy",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 306543,
+                            "name": "R. Vega",
+                            "number": 6,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5546,
+                            "name": "S. Prieto",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 358383,
+                            "name": "A. Lescano",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 5554,
+                            "name": "F. Fattori",
+                            "number": 24,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 11832,
+                            "name": "N. Oroz",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 354791,
+                            "name": "J. Herrera",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 75989,
+                            "name": "T. Molina",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 58688,
+                            "name": "S. Rodríguez",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 35671,
+                            "name": "I. Sosa",
+                            "number": 18,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 311353,
+                            "name": "E. Viveros",
+                            "number": 29,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 414518,
+                            "name": "L. Gómez",
+                            "number": 25,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 404572,
+                            "name": "A. Gamarra",
+                            "number": 15,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 354790,
+                            "name": "J. Cardozo",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 403323,
+                            "name": "M. Brondo",
+                            "number": 30,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 414515,
+                            "name": "K. Coronel",
+                            "number": 14,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 311770,
+                            "name": "M. Antoni",
+                            "number": 33,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 354786,
+                            "name": "T. Santamaría",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 354785,
+                            "name": "G. Siri",
+                            "number": 12,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 36311,
+                            "name": "R. Bentancourt",
+                            "number": 19,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Avellaneda, Provincia de Buenos Aires",
+        "temperature": 3.2,
+        "precipitation": 0.0,
+        "wind_speed": 9.5,
+        "weather_code": 3,
+        "weather_description": "Cielo coperto",
+        "timestamp": 1739665800
+    }
+}

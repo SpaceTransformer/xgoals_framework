@@ -1,0 +1,1853 @@
+{
+    "fixture": {
+        "id": 1234883,
+        "referee": "Fabio Maresca, Italy",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-16T17:15:00+01:00",
+        "timestamp": 1739722500,
+        "periods": {
+            "first": 1739722500,
+            "second": 1739726100
+        },
+        "venue": {
+            "id": 2758,
+            "name": "Orogel Stadium-Dino Manuzzi",
+            "city": "Cesena"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 8
+        }
+    },
+    "league": {
+        "id": 136,
+        "name": "Serie B",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/136.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2024,
+        "round": "Regular Season - 26",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 509,
+            "name": "Cesena",
+            "logo": "https://media.api-sports.io/football/teams/509.png",
+            "winner": null
+        },
+        "away": {
+            "id": 801,
+            "name": "Pisa",
+            "logo": "https://media.api-sports.io/football/teams/801.png",
+            "winner": null
+        }
+    },
+    "goals": {
+        "home": 1,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 509,
+            "name": "Cesena",
+            "logo": "https://media.api-sports.io/football/teams/509.png"
+        },
+        "form": "WLWLDDWLLWDWWDLLWLLLDWDLWD",
+        "fixtures": {
+            "played": {
+                "home": 13,
+                "away": 13,
+                "total": 26
+            },
+            "wins": {
+                "home": 6,
+                "away": 3,
+                "total": 9
+            },
+            "draws": {
+                "home": 5,
+                "away": 2,
+                "total": 7
+            },
+            "loses": {
+                "home": 2,
+                "away": 8,
+                "total": 10
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 21,
+                    "away": 13,
+                    "total": 34
+                },
+                "average": {
+                    "home": "1.6",
+                    "away": "1.0",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 7,
+                        "percentage": "19.44%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "11.11%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "11.11%"
+                    },
+                    "46-60": {
+                        "total": 11,
+                        "percentage": "30.56%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "16.67%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "11.11%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 20,
+                        "under": 6
+                    },
+                    "1.5": {
+                        "over": 11,
+                        "under": 15
+                    },
+                    "2.5": {
+                        "over": 2,
+                        "under": 24
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 25
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 15,
+                    "away": 20,
+                    "total": 35
+                },
+                "average": {
+                    "home": "1.2",
+                    "away": "1.5",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 2,
+                        "percentage": "6.06%"
+                    },
+                    "16-30": {
+                        "total": 8,
+                        "percentage": "24.24%"
+                    },
+                    "31-45": {
+                        "total": 6,
+                        "percentage": "18.18%"
+                    },
+                    "46-60": {
+                        "total": 7,
+                        "percentage": "21.21%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "15.15%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "12.12%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "3.03%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 19,
+                        "under": 7
+                    },
+                    "1.5": {
+                        "over": 9,
+                        "under": 17
+                    },
+                    "2.5": {
+                        "over": 4,
+                        "under": 22
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 24
+                    },
+                    "4.5": {
+                        "over": 1,
+                        "under": 25
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 2,
+                "draws": 2,
+                "loses": 3
+            },
+            "wins": {
+                "home": "4-2",
+                "away": "0-2"
+            },
+            "loses": {
+                "home": "3-5",
+                "away": "4-2"
+            },
+            "goals": {
+                "for": {
+                    "home": 4,
+                    "away": 2
+                },
+                "against": {
+                    "home": 5,
+                    "away": 4
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 4,
+            "away": 3,
+            "total": 7
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 4,
+            "total": 6
+        },
+        "penalty": {
+            "scored": {
+                "total": 6,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 6
+        },
+        "lineups": [
+            {
+                "formation": "3-4-2-1",
+                "played": 12
+            },
+            {
+                "formation": "3-5-2",
+                "played": 7
+            },
+            {
+                "formation": "3-4-1-2",
+                "played": 3
+            },
+            {
+                "formation": "3-1-4-2",
+                "played": 1
+            },
+            {
+                "formation": "5-4-1",
+                "played": 1
+            },
+            {
+                "formation": "3-4-3",
+                "played": 1
+            },
+            {
+                "formation": "5-3-2",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 7,
+                    "percentage": "9.21%"
+                },
+                "16-30": {
+                    "total": 11,
+                    "percentage": "14.47%"
+                },
+                "31-45": {
+                    "total": 9,
+                    "percentage": "11.84%"
+                },
+                "46-60": {
+                    "total": 16,
+                    "percentage": "21.05%"
+                },
+                "61-75": {
+                    "total": 11,
+                    "percentage": "14.47%"
+                },
+                "76-90": {
+                    "total": 18,
+                    "percentage": "23.68%"
+                },
+                "91-105": {
+                    "total": 4,
+                    "percentage": "5.26%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "25.00%"
+                },
+                "46-60": {
+                    "total": 1,
+                    "percentage": "25.00%"
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": 2,
+                    "percentage": "50.00%"
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 136,
+            "name": "Serie B",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/136.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2024
+        },
+        "team": {
+            "id": 801,
+            "name": "Pisa",
+            "logo": "https://media.api-sports.io/football/teams/801.png"
+        },
+        "form": "DWWWWWLWWDDWWLDWWLWWWDWWLD",
+        "fixtures": {
+            "played": {
+                "home": 13,
+                "away": 13,
+                "total": 26
+            },
+            "wins": {
+                "home": 9,
+                "away": 7,
+                "total": 16
+            },
+            "draws": {
+                "home": 3,
+                "away": 3,
+                "total": 6
+            },
+            "loses": {
+                "home": 1,
+                "away": 3,
+                "total": 4
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 24,
+                    "away": 18,
+                    "total": 42
+                },
+                "average": {
+                    "home": "1.8",
+                    "away": "1.4",
+                    "total": "1.6"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 7,
+                        "percentage": "18.42%"
+                    },
+                    "16-30": {
+                        "total": 7,
+                        "percentage": "18.42%"
+                    },
+                    "31-45": {
+                        "total": 5,
+                        "percentage": "13.16%"
+                    },
+                    "46-60": {
+                        "total": 9,
+                        "percentage": "23.68%"
+                    },
+                    "61-75": {
+                        "total": 6,
+                        "percentage": "15.79%"
+                    },
+                    "76-90": {
+                        "total": 4,
+                        "percentage": "10.53%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 19,
+                        "under": 7
+                    },
+                    "1.5": {
+                        "over": 16,
+                        "under": 10
+                    },
+                    "2.5": {
+                        "over": 7,
+                        "under": 19
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 10,
+                    "away": 12,
+                    "total": 22
+                },
+                "average": {
+                    "home": "0.8",
+                    "away": "0.9",
+                    "total": "0.8"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 3,
+                        "percentage": "12.00%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "16.00%"
+                    },
+                    "31-45": {
+                        "total": 1,
+                        "percentage": "4.00%"
+                    },
+                    "46-60": {
+                        "total": 6,
+                        "percentage": "24.00%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "12.00%"
+                    },
+                    "76-90": {
+                        "total": 6,
+                        "percentage": "24.00%"
+                    },
+                    "91-105": {
+                        "total": 2,
+                        "percentage": "8.00%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 17,
+                        "under": 9
+                    },
+                    "1.5": {
+                        "over": 5,
+                        "under": 21
+                    },
+                    "2.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 26
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 26
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 5,
+                "draws": 2,
+                "loses": 1
+            },
+            "wins": {
+                "home": "3-0",
+                "away": "0-3"
+            },
+            "loses": {
+                "home": "0-1",
+                "away": "2-0"
+            },
+            "goals": {
+                "for": {
+                    "home": 3,
+                    "away": 3
+                },
+                "against": {
+                    "home": 2,
+                    "away": 2
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 5,
+            "away": 4,
+            "total": 9
+        },
+        "failed_to_score": {
+            "home": 2,
+            "away": 5,
+            "total": 7
+        },
+        "penalty": {
+            "scored": {
+                "total": 3,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 3
+        },
+        "lineups": [
+            {
+                "formation": "3-4-2-1",
+                "played": 22
+            },
+            {
+                "formation": "5-4-1",
+                "played": 2
+            },
+            {
+                "formation": "3-4-3",
+                "played": 2
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 2,
+                    "percentage": "3.64%"
+                },
+                "16-30": {
+                    "total": 4,
+                    "percentage": "7.27%"
+                },
+                "31-45": {
+                    "total": 13,
+                    "percentage": "23.64%"
+                },
+                "46-60": {
+                    "total": 12,
+                    "percentage": "21.82%"
+                },
+                "61-75": {
+                    "total": 8,
+                    "percentage": "14.55%"
+                },
+                "76-90": {
+                    "total": 12,
+                    "percentage": "21.82%"
+                },
+                "91-105": {
+                    "total": 4,
+                    "percentage": "7.27%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": 1,
+                    "percentage": "33.33%"
+                },
+                "16-30": {
+                    "total": 1,
+                    "percentage": "33.33%"
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "33.33%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1234883"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 0
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 4
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 1
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 10
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 1
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 6
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "50%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 4
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 396
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 302
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "76%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 2
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 7
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 14
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 5
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 10
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 4
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 16
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 2
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 0
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "50%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 4
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": 0
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 1
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 389
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 307
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "79%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": null
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": null
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1234883"
+        },
+        "errors": [],
+        "results": 23,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 33,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 56293,
+                    "name": "I. Touré"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 37,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 325400,
+                    "name": "M. Francesconi"
+                },
+                "assist": {
+                    "id": 392489,
+                    "name": "L. Mendicino"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 39,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 91503,
+                    "name": "Simone Canestrelli"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 41,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 331678,
+                    "name": "Henrik Wendel Meister"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 45,
+                    "extra": 4
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 127024,
+                    "name": "Emanuele Adamo"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Goal cancelled",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 325403,
+                    "name": "C. Shpendi"
+                },
+                "assist": {
+                    "id": 330758,
+                    "name": "F. Russo"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 48,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 32064,
+                    "name": "Daniele Donnarumma"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Var",
+                "detail": "Card upgrade",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 49,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 32064,
+                    "name": "Daniele Donnarumma"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Red Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 52,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 325399,
+                    "name": "T. Berti"
+                },
+                "assist": {
+                    "id": 56433,
+                    "name": "R. Celia"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 53,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 127024,
+                    "name": "Emanuele Adamo"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Argument"
+            },
+            {
+                "time": {
+                    "elapsed": 57,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 56293,
+                    "name": "Idrissa Touré"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 58,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 56293,
+                    "name": "I. Touré"
+                },
+                "assist": {
+                    "id": 30530,
+                    "name": "L. Sernicola"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 59,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 331678,
+                    "name": "H. Meister"
+                },
+                "assist": {
+                    "id": 15723,
+                    "name": "M. Højholt"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 325387,
+                    "name": "G. Piccinini"
+                },
+                "assist": {
+                    "id": 15719,
+                    "name": "O. Abildgaard"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 20959,
+                    "name": "M. Tramoni"
+                },
+                "assist": {
+                    "id": 43024,
+                    "name": "O. Moruțan"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 70,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 56644,
+                    "name": "M. Piacentini"
+                },
+                "assist": {
+                    "id": 30687,
+                    "name": "S. Bastoni"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 70,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 31241,
+                    "name": "D. Šarić"
+                },
+                "assist": {
+                    "id": 31497,
+                    "name": "M. Antonucci"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 71,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 392489,
+                    "name": "Leonardo Mendicino"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 73,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 25335,
+                    "name": "Jonathan Klinsmann"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Argument"
+            },
+            {
+                "time": {
+                    "elapsed": 79,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 31062,
+                    "name": "A. La Gumina"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 82,
+                    "extra": null
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 91503,
+                    "name": "S. Canestrelli"
+                },
+                "assist": {
+                    "id": 127055,
+                    "name": "A. Arena"
+                },
+                "type": "subst",
+                "detail": "Substitution 5",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 85,
+                    "extra": null
+                },
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png"
+                },
+                "player": {
+                    "id": 330758,
+                    "name": "Flavio Russo"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Simulation"
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 2
+                },
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png"
+                },
+                "player": {
+                    "id": 302069,
+                    "name": "Samuele Angori"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Simulation"
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1234883"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 509,
+                    "name": "Cesena",
+                    "logo": "https://media.api-sports.io/football/teams/509.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "000000",
+                            "border": "ffffff"
+                        },
+                        "goalkeeper": {
+                            "primary": "6600ff",
+                            "number": "ffffff",
+                            "border": "6600ff"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 3725,
+                    "name": "M. Mignani",
+                    "photo": "https://media.api-sports.io/football/coachs/3725.png"
+                },
+                "formation": "3-4-1-2",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 25335,
+                            "name": "J. Klinsmann",
+                            "number": 33,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56644,
+                            "name": "M. Piacentini",
+                            "number": 26,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31836,
+                            "name": "G. Prestia",
+                            "number": 19,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56384,
+                            "name": "M. Mangraviti",
+                            "number": 24,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 127024,
+                            "name": "E. Adamo",
+                            "number": 17,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 325400,
+                            "name": "M. Francesconi",
+                            "number": 70,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31241,
+                            "name": "D. Šarić",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 32064,
+                            "name": "D. Donnarumma",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 325399,
+                            "name": "T. Berti",
+                            "number": 14,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31062,
+                            "name": "A. La Gumina",
+                            "number": 27,
+                            "pos": "F",
+                            "grid": "5:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 325403,
+                            "name": "C. Shpendi",
+                            "number": 9,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 392489,
+                            "name": "L. Mendicino",
+                            "number": 5,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 330758,
+                            "name": "F. Russo",
+                            "number": 91,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56433,
+                            "name": "R. Celia",
+                            "number": 13,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30687,
+                            "name": "S. Bastoni",
+                            "number": 30,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31497,
+                            "name": "M. Antonucci",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56270,
+                            "name": "A. Siano",
+                            "number": 93,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30882,
+                            "name": "M. Pisseri",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 403542,
+                            "name": "G. Manetti",
+                            "number": 71,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 383028,
+                            "name": "S. Pieraccini",
+                            "number": 73,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 93001,
+                            "name": "E. Tavşan",
+                            "number": 20,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 801,
+                    "name": "Pisa",
+                    "logo": "https://media.api-sports.io/football/teams/801.png",
+                    "colors": {
+                        "player": {
+                            "primary": "1f3285",
+                            "number": "ffffff",
+                            "border": "1f3285"
+                        },
+                        "goalkeeper": {
+                            "primary": "00a7ff",
+                            "number": "ffffff",
+                            "border": "00a7ff"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 1603,
+                    "name": "F. Inzaghi",
+                    "photo": "https://media.api-sports.io/football/coachs/1603.png"
+                },
+                "formation": "3-4-2-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 30733,
+                            "name": "A. Šemper",
+                            "number": 47,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 91503,
+                            "name": "S. Canestrelli",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31604,
+                            "name": "A. Caracciolo",
+                            "number": 4,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 341838,
+                            "name": "G. Bonfanti",
+                            "number": 94,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56293,
+                            "name": "I. Touré",
+                            "number": 15,
+                            "pos": "M",
+                            "grid": "3:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 325387,
+                            "name": "G. Piccinini",
+                            "number": 36,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30723,
+                            "name": "M. Marin",
+                            "number": 6,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 302069,
+                            "name": "S. Angori",
+                            "number": 3,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31560,
+                            "name": "S. Moreo",
+                            "number": 32,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 20959,
+                            "name": "M. Tramoni",
+                            "number": 11,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 331678,
+                            "name": "H. Meister",
+                            "number": 14,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 30530,
+                            "name": "L. Sernicola",
+                            "number": 66,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 15723,
+                            "name": "M. Højholt",
+                            "number": 8,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 43024,
+                            "name": "O. Moruțan",
+                            "number": 80,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 15719,
+                            "name": "O. Abildgaard",
+                            "number": 28,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 127055,
+                            "name": "A. Arena",
+                            "number": 30,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 510473,
+                            "name": "L. Buffon",
+                            "number": 16,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30469,
+                            "name": "A. Calabresi",
+                            "number": 33,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30792,
+                            "name": "Nícolas",
+                            "number": 1,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 57425,
+                            "name": "M. Solbakken",
+                            "number": 21,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56267,
+                            "name": "L. Loria",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56174,
+                            "name": "C. Sussi",
+                            "number": 13,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 427079,
+                            "name": "A. Castellini",
+                            "number": 27,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Cesena",
+        "temperature": 6.5,
+        "precipitation": 0.0,
+        "wind_speed": 4.4,
+        "weather_code": 0,
+        "weather_description": "Cielo sereno",
+        "timestamp": 1739722500
+    }
+}

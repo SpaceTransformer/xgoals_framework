@@ -1,0 +1,1696 @@
+{
+    "fixture": {
+        "id": 1345748,
+        "referee": "Szymon Marciniak, Poland",
+        "timezone": "Europe/Rome",
+        "date": "2025-02-18T18:45:00+01:00",
+        "timestamp": 1739900700,
+        "periods": {
+            "first": 1739900700,
+            "second": 1739904300
+        },
+        "venue": {
+            "id": 907,
+            "name": "Stadio Giuseppe Meazza",
+            "city": "Milano"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+        }
+    },
+    "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2024,
+        "round": "Knockout Round Play-offs",
+        "standings": true
+    },
+    "teams": {
+        "home": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png",
+            "winner": null
+        },
+        "away": {
+            "id": 209,
+            "name": "Feyenoord",
+            "logo": "https://media.api-sports.io/football/teams/209.png",
+            "winner": null
+        }
+    },
+    "goals": {
+        "home": 1,
+        "away": 1
+    },
+    "home_stats": {
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2024
+        },
+        "team": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media.api-sports.io/football/teams/489.png"
+        },
+        "form": "LLWWWWWLLD",
+        "fixtures": {
+            "played": {
+                "home": 5,
+                "away": 5,
+                "total": 10
+            },
+            "wins": {
+                "home": 3,
+                "away": 2,
+                "total": 5
+            },
+            "draws": {
+                "home": 1,
+                "away": 0,
+                "total": 1
+            },
+            "loses": {
+                "home": 1,
+                "away": 3,
+                "total": 4
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 8,
+                    "away": 7,
+                    "total": 15
+                },
+                "average": {
+                    "home": "1.6",
+                    "away": "1.4",
+                    "total": "1.5"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 3,
+                        "percentage": "20.00%"
+                    },
+                    "16-30": {
+                        "total": 1,
+                        "percentage": "6.67%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "26.67%"
+                    },
+                    "46-60": {
+                        "total": 1,
+                        "percentage": "6.67%"
+                    },
+                    "61-75": {
+                        "total": 5,
+                        "percentage": "33.33%"
+                    },
+                    "76-90": {
+                        "total": 1,
+                        "percentage": "6.67%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 8,
+                        "under": 2
+                    },
+                    "1.5": {
+                        "over": 4,
+                        "under": 6
+                    },
+                    "2.5": {
+                        "over": 3,
+                        "under": 7
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 10
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 10
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 6,
+                    "away": 7,
+                    "total": 13
+                },
+                "average": {
+                    "home": "1.2",
+                    "away": "1.4",
+                    "total": "1.3"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 1,
+                        "percentage": "7.69%"
+                    },
+                    "16-30": {
+                        "total": 4,
+                        "percentage": "30.77%"
+                    },
+                    "31-45": {
+                        "total": 1,
+                        "percentage": "7.69%"
+                    },
+                    "46-60": {
+                        "total": 3,
+                        "percentage": "23.08%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "23.08%"
+                    },
+                    "76-90": {
+                        "total": 1,
+                        "percentage": "7.69%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 9,
+                        "under": 1
+                    },
+                    "1.5": {
+                        "over": 3,
+                        "under": 7
+                    },
+                    "2.5": {
+                        "over": 1,
+                        "under": 9
+                    },
+                    "3.5": {
+                        "over": 0,
+                        "under": 10
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 10
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 5,
+                "draws": 0,
+                "loses": 2
+            },
+            "wins": {
+                "home": "3-1",
+                "away": "1-3"
+            },
+            "loses": {
+                "home": "1-3",
+                "away": "2-1"
+            },
+            "goals": {
+                "for": {
+                    "home": 3,
+                    "away": 3
+                },
+                "against": {
+                    "home": 3,
+                    "away": 2
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 1,
+            "away": 0,
+            "total": 1
+        },
+        "failed_to_score": {
+            "home": 0,
+            "away": 2,
+            "total": 2
+        },
+        "penalty": {
+            "scored": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 0
+        },
+        "lineups": [
+            {
+                "formation": "4-2-3-1",
+                "played": 9
+            },
+            {
+                "formation": "4-3-3",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": 3,
+                    "percentage": "11.11%"
+                },
+                "31-45": {
+                    "total": 8,
+                    "percentage": "29.63%"
+                },
+                "46-60": {
+                    "total": 6,
+                    "percentage": "22.22%"
+                },
+                "61-75": {
+                    "total": 1,
+                    "percentage": "3.70%"
+                },
+                "76-90": {
+                    "total": 6,
+                    "percentage": "22.22%"
+                },
+                "91-105": {
+                    "total": 2,
+                    "percentage": "7.41%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                },
+                "": {
+                    "total": 1,
+                    "percentage": "3.70%"
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "46-60": {
+                    "total": 1,
+                    "percentage": "50.00%"
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "away_stats": {
+        "league": {
+            "id": 2,
+            "name": "UEFA Champions League",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/2.png",
+            "flag": null,
+            "season": 2024
+        },
+        "team": {
+            "id": 209,
+            "name": "Feyenoord",
+            "logo": "https://media.api-sports.io/football/teams/209.png"
+        },
+        "form": "LWWLDWWLWD",
+        "fixtures": {
+            "played": {
+                "home": 5,
+                "away": 5,
+                "total": 10
+            },
+            "wins": {
+                "home": 3,
+                "away": 2,
+                "total": 5
+            },
+            "draws": {
+                "home": 0,
+                "away": 2,
+                "total": 2
+            },
+            "loses": {
+                "home": 2,
+                "away": 1,
+                "total": 3
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 9,
+                    "away": 11,
+                    "total": 20
+                },
+                "average": {
+                    "home": "1.8",
+                    "away": "2.2",
+                    "total": "2.0"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 5,
+                        "percentage": "22.73%"
+                    },
+                    "16-30": {
+                        "total": 2,
+                        "percentage": "9.09%"
+                    },
+                    "31-45": {
+                        "total": 4,
+                        "percentage": "18.18%"
+                    },
+                    "46-60": {
+                        "total": 1,
+                        "percentage": "4.55%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "13.64%"
+                    },
+                    "76-90": {
+                        "total": 6,
+                        "percentage": "27.27%"
+                    },
+                    "91-105": {
+                        "total": 1,
+                        "percentage": "4.55%"
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 9,
+                        "under": 1
+                    },
+                    "1.5": {
+                        "over": 5,
+                        "under": 5
+                    },
+                    "2.5": {
+                        "over": 5,
+                        "under": 5
+                    },
+                    "3.5": {
+                        "over": 1,
+                        "under": 9
+                    },
+                    "4.5": {
+                        "over": 0,
+                        "under": 10
+                    }
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 9,
+                    "away": 13,
+                    "total": 22
+                },
+                "average": {
+                    "home": "1.8",
+                    "away": "2.6",
+                    "total": "2.2"
+                },
+                "minute": {
+                    "0-15": {
+                        "total": 3,
+                        "percentage": "15.00%"
+                    },
+                    "16-30": {
+                        "total": 3,
+                        "percentage": "15.00%"
+                    },
+                    "31-45": {
+                        "total": 3,
+                        "percentage": "15.00%"
+                    },
+                    "46-60": {
+                        "total": 5,
+                        "percentage": "25.00%"
+                    },
+                    "61-75": {
+                        "total": 3,
+                        "percentage": "15.00%"
+                    },
+                    "76-90": {
+                        "total": 3,
+                        "percentage": "15.00%"
+                    },
+                    "91-105": {
+                        "total": null,
+                        "percentage": null
+                    },
+                    "106-120": {
+                        "total": null,
+                        "percentage": null
+                    }
+                },
+                "under_over": {
+                    "0.5": {
+                        "over": 8,
+                        "under": 2
+                    },
+                    "1.5": {
+                        "over": 6,
+                        "under": 4
+                    },
+                    "2.5": {
+                        "over": 4,
+                        "under": 6
+                    },
+                    "3.5": {
+                        "over": 2,
+                        "under": 8
+                    },
+                    "4.5": {
+                        "over": 1,
+                        "under": 9
+                    }
+                }
+            }
+        },
+        "biggest": {
+            "streak": {
+                "wins": 2,
+                "draws": 1,
+                "loses": 1
+            },
+            "wins": {
+                "home": "3-0",
+                "away": "1-3"
+            },
+            "loses": {
+                "home": "0-4",
+                "away": "6-1"
+            },
+            "goals": {
+                "for": {
+                    "home": 4,
+                    "away": 3
+                },
+                "against": {
+                    "home": 4,
+                    "away": 6
+                }
+            }
+        },
+        "clean_sheet": {
+            "home": 2,
+            "away": 0,
+            "total": 2
+        },
+        "failed_to_score": {
+            "home": 1,
+            "away": 0,
+            "total": 1
+        },
+        "penalty": {
+            "scored": {
+                "total": 1,
+                "percentage": "100.00%"
+            },
+            "missed": {
+                "total": 0,
+                "percentage": "0%"
+            },
+            "total": 1
+        },
+        "lineups": [
+            {
+                "formation": "4-3-3",
+                "played": 8
+            },
+            {
+                "formation": "4-4-2",
+                "played": 1
+            },
+            {
+                "formation": "4-2-3-1",
+                "played": 1
+            }
+        ],
+        "cards": {
+            "yellow": {
+                "0-15": {
+                    "total": 1,
+                    "percentage": "7.14%"
+                },
+                "16-30": {
+                    "total": 3,
+                    "percentage": "21.43%"
+                },
+                "31-45": {
+                    "total": 3,
+                    "percentage": "21.43%"
+                },
+                "46-60": {
+                    "total": 4,
+                    "percentage": "28.57%"
+                },
+                "61-75": {
+                    "total": 2,
+                    "percentage": "14.29%"
+                },
+                "76-90": {
+                    "total": null,
+                    "percentage": null
+                },
+                "91-105": {
+                    "total": 1,
+                    "percentage": "7.14%"
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            },
+            "red": {
+                "0-15": {
+                    "total": null,
+                    "percentage": null
+                },
+                "16-30": {
+                    "total": null,
+                    "percentage": null
+                },
+                "31-45": {
+                    "total": null,
+                    "percentage": null
+                },
+                "46-60": {
+                    "total": null,
+                    "percentage": null
+                },
+                "61-75": {
+                    "total": null,
+                    "percentage": null
+                },
+                "76-90": {
+                    "total": 1,
+                    "percentage": "100.00%"
+                },
+                "91-105": {
+                    "total": null,
+                    "percentage": null
+                },
+                "106-120": {
+                    "total": null,
+                    "percentage": null
+                }
+            }
+        }
+    },
+    "match_statistics": {
+        "get": "fixtures/statistics",
+        "parameters": {
+            "fixture": "1345748"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 7
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 5
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 18
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 6
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 12
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 6
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 11
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 4
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 0
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "56%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 4
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 0
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 511
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 450
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "88%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "1.71"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "statistics": [
+                    {
+                        "type": "Shots on Goal",
+                        "value": 1
+                    },
+                    {
+                        "type": "Shots off Goal",
+                        "value": 5
+                    },
+                    {
+                        "type": "Total Shots",
+                        "value": 6
+                    },
+                    {
+                        "type": "Blocked Shots",
+                        "value": 0
+                    },
+                    {
+                        "type": "Shots insidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Shots outsidebox",
+                        "value": 3
+                    },
+                    {
+                        "type": "Fouls",
+                        "value": 10
+                    },
+                    {
+                        "type": "Corner Kicks",
+                        "value": 3
+                    },
+                    {
+                        "type": "Offsides",
+                        "value": 1
+                    },
+                    {
+                        "type": "Ball Possession",
+                        "value": "44%"
+                    },
+                    {
+                        "type": "Yellow Cards",
+                        "value": 2
+                    },
+                    {
+                        "type": "Red Cards",
+                        "value": 1
+                    },
+                    {
+                        "type": "Goalkeeper Saves",
+                        "value": 6
+                    },
+                    {
+                        "type": "Total passes",
+                        "value": 400
+                    },
+                    {
+                        "type": "Passes accurate",
+                        "value": 325
+                    },
+                    {
+                        "type": "Passes %",
+                        "value": "81%"
+                    },
+                    {
+                        "type": "expected_goals",
+                        "value": "0.71"
+                    },
+                    {
+                        "type": "goals_prevented",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "match_events": {
+        "get": "fixtures/events",
+        "parameters": {
+            "fixture": "1345748"
+        },
+        "errors": [],
+        "results": 17,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "time": {
+                    "elapsed": 1,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 94562,
+                    "name": "S. Giménez"
+                },
+                "assist": {
+                    "id": 163189,
+                    "name": "M. Thiaw"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 22,
+                    "extra": null
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 40911,
+                    "name": "Jakub Moder"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 44,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 47300,
+                    "name": "Theo Hernández"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 51,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 47300,
+                    "name": "Theo Hernández"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Simulation"
+            },
+            {
+                "time": {
+                    "elapsed": 51,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 47300,
+                    "name": "Theo Hernández"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Red Card",
+                "comments": "Simulation"
+            },
+            {
+                "time": {
+                    "elapsed": 63,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 17,
+                    "name": "C. Pulišić"
+                },
+                "assist": {
+                    "id": 374359,
+                    "name": "D. Bartesaghi"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 371230,
+                    "name": "Z. Redmond"
+                },
+                "assist": {
+                    "id": 6386,
+                    "name": "J. Carranza"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 71,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 94562,
+                    "name": "S. Giménez"
+                },
+                "assist": {
+                    "id": 22254,
+                    "name": "Y. Fofana"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 73,
+                    "extra": null
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 6386,
+                    "name": "J. Carranza"
+                },
+                "assist": {
+                    "id": 280687,
+                    "name": "Hugo Bueno"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 75,
+                    "extra": null
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 280687,
+                    "name": "Hugo Bueno"
+                },
+                "assist": {
+                    "id": 36910,
+                    "name": "C. Stengs"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 76,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 583,
+                    "name": "João Félix"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 82,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 162106,
+                    "name": "Y. Musah"
+                },
+                "assist": {
+                    "id": 1696,
+                    "name": "S. Chukwueze"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 83,
+                    "extra": null
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 36902,
+                    "name": "T. Reijnders"
+                },
+                "assist": {
+                    "id": 19194,
+                    "name": "T. Abraham"
+                },
+                "type": "subst",
+                "detail": "Substitution 4",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 87,
+                    "extra": null
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 326067,
+                    "name": "A. Hadj Moussa"
+                },
+                "assist": {
+                    "id": 297583,
+                    "name": "J. Mitchell"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 7
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 359390,
+                    "name": "Givairo Read"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Red Card",
+                "comments": "Violent conduct"
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 3
+                },
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png"
+                },
+                "player": {
+                    "id": 297583,
+                    "name": "Jeyland Mitchell"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Foul"
+            },
+            {
+                "time": {
+                    "elapsed": 90,
+                    "extra": 7
+                },
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png"
+                },
+                "player": {
+                    "id": 22236,
+                    "name": "Rafael Leão"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": "Argument"
+            }
+        ]
+    },
+    "lineups": {
+        "get": "fixtures/lineups",
+        "parameters": {
+            "fixture": "1345748"
+        },
+        "errors": [],
+        "results": 2,
+        "paging": {
+            "current": 1,
+            "total": 1
+        },
+        "response": [
+            {
+                "team": {
+                    "id": 489,
+                    "name": "AC Milan",
+                    "logo": "https://media.api-sports.io/football/teams/489.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ff0000",
+                            "number": "0b0a0a",
+                            "border": "ff0000"
+                        },
+                        "goalkeeper": {
+                            "primary": "c0f2e9",
+                            "number": "171717",
+                            "border": "c0f2e9"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 2204,
+                    "name": "Sérgio Conceição",
+                    "photo": "https://media.api-sports.io/football/coachs/2204.png"
+                },
+                "formation": "4-2-3-1",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 22221,
+                            "name": "M. Maignan",
+                            "number": 16,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 627,
+                            "name": "K. Walker",
+                            "number": 32,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 163189,
+                            "name": "M. Thiaw",
+                            "number": 28,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 45826,
+                            "name": "S. Pavlović",
+                            "number": 31,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 47300,
+                            "name": "T. Hernández",
+                            "number": 19,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 162106,
+                            "name": "Y. Musah",
+                            "number": 80,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 36902,
+                            "name": "T. Reijnders",
+                            "number": 14,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 17,
+                            "name": "C. Pulišić",
+                            "number": 11,
+                            "pos": "M",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 583,
+                            "name": "João Félix",
+                            "number": 79,
+                            "pos": "M",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22236,
+                            "name": "Rafael Leão",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": "4:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 94562,
+                            "name": "S. Giménez",
+                            "number": 7,
+                            "pos": "F",
+                            "grid": "5:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 374359,
+                            "name": "D. Bartesaghi",
+                            "number": 33,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 22254,
+                            "name": "Y. Fofana",
+                            "number": 29,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 1696,
+                            "name": "S. Chukwueze",
+                            "number": 21,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 19194,
+                            "name": "T. Abraham",
+                            "number": 90,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 56473,
+                            "name": "M. Gabbia",
+                            "number": 46,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 386298,
+                            "name": "L. Torriani",
+                            "number": 96,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 436260,
+                            "name": "F. Camarda",
+                            "number": 73,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 19209,
+                            "name": "F. Tomori",
+                            "number": 23,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 264472,
+                            "name": "F. Terracciano",
+                            "number": 42,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 31069,
+                            "name": "M. Sportiello",
+                            "number": 57,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    }
+                ]
+            },
+            {
+                "team": {
+                    "id": 209,
+                    "name": "Feyenoord",
+                    "logo": "https://media.api-sports.io/football/teams/209.png",
+                    "colors": {
+                        "player": {
+                            "primary": "ffffff",
+                            "number": "ffffff",
+                            "border": "1a2124"
+                        },
+                        "goalkeeper": {
+                            "primary": "6ac8e5",
+                            "number": "f5f5f5",
+                            "border": "6ac8e5"
+                        }
+                    }
+                },
+                "coach": {
+                    "id": 16374,
+                    "name": "P. Bosschaart",
+                    "photo": "https://media.api-sports.io/football/coachs/16374.png"
+                },
+                "formation": "4-3-3",
+                "startXI": [
+                    {
+                        "player": {
+                            "id": 36776,
+                            "name": "T. Wellenreuther",
+                            "number": 22,
+                            "pos": "G",
+                            "grid": "1:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 359390,
+                            "name": "G. Read",
+                            "number": 26,
+                            "pos": "D",
+                            "grid": "2:4"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 328141,
+                            "name": "T. Beelen",
+                            "number": 3,
+                            "pos": "D",
+                            "grid": "2:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 30399,
+                            "name": "D. Hancko",
+                            "number": 33,
+                            "pos": "D",
+                            "grid": "2:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 37742,
+                            "name": "G. Smal",
+                            "number": 5,
+                            "pos": "D",
+                            "grid": "2:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 319517,
+                            "name": "A. Milambo",
+                            "number": 27,
+                            "pos": "M",
+                            "grid": "3:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 40911,
+                            "name": "J. Moder",
+                            "number": 7,
+                            "pos": "M",
+                            "grid": "3:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 280687,
+                            "name": "Hugo Bueno",
+                            "number": 16,
+                            "pos": "M",
+                            "grid": "3:1"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 326067,
+                            "name": "A. Hadj Moussa",
+                            "number": 23,
+                            "pos": "F",
+                            "grid": "4:3"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 371230,
+                            "name": "Z. Redmond",
+                            "number": 49,
+                            "pos": "F",
+                            "grid": "4:2"
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 9363,
+                            "name": "Igor Paixão",
+                            "number": 14,
+                            "pos": "F",
+                            "grid": "4:1"
+                        }
+                    }
+                ],
+                "substitutes": [
+                    {
+                        "player": {
+                            "id": 6386,
+                            "name": "J. Carranza",
+                            "number": 19,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 36910,
+                            "name": "C. Stengs",
+                            "number": 10,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 297583,
+                            "name": "J. Mitchell",
+                            "number": 20,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 491239,
+                            "name": "T. van den Elshout",
+                            "number": 44,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 441275,
+                            "name": "D. Giersthove",
+                            "number": 48,
+                            "pos": "D",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 293643,
+                            "name": "I. Osman",
+                            "number": 38,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 315880,
+                            "name": "P. Andreev",
+                            "number": 21,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 441274,
+                            "name": "I. Ka",
+                            "number": 64,
+                            "pos": "G",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 412873,
+                            "name": "A. Sliti",
+                            "number": 57,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 14394,
+                            "name": "L. Ivanušec",
+                            "number": 17,
+                            "pos": "F",
+                            "grid": null
+                        }
+                    },
+                    {
+                        "player": {
+                            "id": 361888,
+                            "name": "S. 't Zand",
+                            "number": 25,
+                            "pos": "M",
+                            "grid": null
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "weather": {
+        "city": "Milano",
+        "temperature": 16.4,
+        "precipitation": 0.0,
+        "wind_speed": 13.8,
+        "weather_code": 3,
+        "weather_description": "Cielo coperto",
+        "timestamp": 1739900700
+    }
+}
